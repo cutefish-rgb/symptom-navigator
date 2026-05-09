@@ -1,0 +1,10 @@
+<svg width="260" height="520" viewBox="0 0 260 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="人體背面示意圖">
+  <rect width="260" height="520" rx="28" fill="#F3F7F5"/>
+  <circle cx="130" cy="70" r="42" fill="#F5C7A9" stroke="#27443D" stroke-width="4"/>
+  <path d="M94 135C94 116 109 101 128 101H132C151 101 166 116 166 135V224H94V135Z" fill="#8FB7CF" stroke="#27443D" stroke-width="4"/>
+  <path d="M130 112V224" stroke="#27443D" stroke-width="4" stroke-linecap="round"/>
+  <path d="M94 154L51 226C46 234 49 245 57 250C66 255 77 252 82 243L101 210" stroke="#27443D" stroke-width="18" stroke-linecap="round"/>
+  <path d="M166 154L209 226C214 234 211 245 203 250C194 255 183 252 178 243L159 210" stroke="#27443D" stroke-width="18" stroke-linecap="round"/>
+  <path d="M105 223L88 404C87 418 97 430 111 431C124 432 136 421 137 408L130 275" stroke="#27443D" stroke-width="22" stroke-linecap="round"/>
+  <path d="M155 223L172 404C173 418 163 430 149 431C136 432 124 421 123 408L130 275" stroke="#27443D" stroke-width="22" stroke-linecap="round"/>
+</svg>

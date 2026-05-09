@@ -1,0 +1,2227 @@
+[
+  {
+    "symptomId": "headache",
+    "symptomSlug": "headache",
+    "symptomName": "頭痛",
+    "type": "intent",
+    "content": {
+      "keywords": [
+        "頭痛看哪一科",
+        "頭痛原因",
+        "頭痛怎麼辦",
+        "頭痛需要急診嗎",
+        "頭痛危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "headache",
+    "symptomSlug": "headache",
+    "symptomName": "頭痛",
+    "type": "faq",
+    "content": {
+      "items": [
+        {
+          "q": "頭痛可能和頭部有關嗎？",
+          "a": "頭痛可能與頭部相關，也可能受到生活作息、感染、發炎或其他身體因素影響。"
+        },
+        {
+          "q": "頭痛應該先看哪一科？",
+          "a": "可以優先考慮神經內科、家醫科；若不確定或症狀複雜，可先由家醫科評估。"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "headache",
+    "symptomSlug": "headache",
+    "symptomName": "頭痛",
+    "type": "synonym",
+    "content": {
+      "synonyms": [
+        "頭痛怎麼辦",
+        "頭痛原因",
+        "頭痛看哪科",
+        "頭痛危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "headache",
+    "symptomSlug": "headache",
+    "symptomName": "頭痛",
+    "type": "link",
+    "content": {
+      "related": [
+        {
+          "slug": "dizziness",
+          "name": "頭暈"
+        },
+        {
+          "slug": "migraine",
+          "name": "偏頭痛"
+        },
+        {
+          "slug": "brain-fog",
+          "name": "昏沉"
+        },
+        {
+          "slug": "scalp-pain",
+          "name": "頭皮疼痛"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "dizziness",
+    "symptomSlug": "dizziness",
+    "symptomName": "頭暈",
+    "type": "intent",
+    "content": {
+      "keywords": [
+        "頭暈看哪一科",
+        "頭暈原因",
+        "頭暈怎麼辦",
+        "頭暈需要急診嗎",
+        "頭暈危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "dizziness",
+    "symptomSlug": "dizziness",
+    "symptomName": "頭暈",
+    "type": "faq",
+    "content": {
+      "items": [
+        {
+          "q": "頭暈可能和頭部有關嗎？",
+          "a": "頭暈可能與頭部相關，也可能受到生活作息、感染、發炎或其他身體因素影響。"
+        },
+        {
+          "q": "頭暈應該先看哪一科？",
+          "a": "可以優先考慮耳鼻喉科、神經內科、家醫科；若不確定或症狀複雜，可先由家醫科評估。"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "dizziness",
+    "symptomSlug": "dizziness",
+    "symptomName": "頭暈",
+    "type": "synonym",
+    "content": {
+      "synonyms": [
+        "頭暈怎麼辦",
+        "頭暈原因",
+        "頭暈看哪科",
+        "頭暈危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "dizziness",
+    "symptomSlug": "dizziness",
+    "symptomName": "頭暈",
+    "type": "link",
+    "content": {
+      "related": [
+        {
+          "slug": "headache",
+          "name": "頭痛"
+        },
+        {
+          "slug": "migraine",
+          "name": "偏頭痛"
+        },
+        {
+          "slug": "brain-fog",
+          "name": "昏沉"
+        },
+        {
+          "slug": "scalp-pain",
+          "name": "頭皮疼痛"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "migraine",
+    "symptomSlug": "migraine",
+    "symptomName": "偏頭痛",
+    "type": "intent",
+    "content": {
+      "keywords": [
+        "偏頭痛看哪一科",
+        "偏頭痛原因",
+        "偏頭痛怎麼辦",
+        "偏頭痛需要急診嗎",
+        "偏頭痛危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "migraine",
+    "symptomSlug": "migraine",
+    "symptomName": "偏頭痛",
+    "type": "faq",
+    "content": {
+      "items": [
+        {
+          "q": "偏頭痛可能和頭部有關嗎？",
+          "a": "偏頭痛可能與頭部相關，也可能受到生活作息、感染、發炎或其他身體因素影響。"
+        },
+        {
+          "q": "偏頭痛應該先看哪一科？",
+          "a": "可以優先考慮神經內科、家醫科；若不確定或症狀複雜，可先由家醫科評估。"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "migraine",
+    "symptomSlug": "migraine",
+    "symptomName": "偏頭痛",
+    "type": "synonym",
+    "content": {
+      "synonyms": [
+        "偏頭痛怎麼辦",
+        "偏頭痛原因",
+        "偏頭痛看哪科",
+        "偏頭痛危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "migraine",
+    "symptomSlug": "migraine",
+    "symptomName": "偏頭痛",
+    "type": "link",
+    "content": {
+      "related": [
+        {
+          "slug": "headache",
+          "name": "頭痛"
+        },
+        {
+          "slug": "dizziness",
+          "name": "頭暈"
+        },
+        {
+          "slug": "brain-fog",
+          "name": "昏沉"
+        },
+        {
+          "slug": "scalp-pain",
+          "name": "頭皮疼痛"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "brain-fog",
+    "symptomSlug": "brain-fog",
+    "symptomName": "昏沉",
+    "type": "intent",
+    "content": {
+      "keywords": [
+        "昏沉看哪一科",
+        "昏沉原因",
+        "昏沉怎麼辦",
+        "昏沉需要急診嗎",
+        "昏沉危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "brain-fog",
+    "symptomSlug": "brain-fog",
+    "symptomName": "昏沉",
+    "type": "faq",
+    "content": {
+      "items": [
+        {
+          "q": "昏沉可能和頭部有關嗎？",
+          "a": "昏沉可能與頭部相關，也可能受到生活作息、感染、發炎或其他身體因素影響。"
+        },
+        {
+          "q": "昏沉應該先看哪一科？",
+          "a": "可以優先考慮家醫科、神經內科、身心科；若不確定或症狀複雜，可先由家醫科評估。"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "brain-fog",
+    "symptomSlug": "brain-fog",
+    "symptomName": "昏沉",
+    "type": "synonym",
+    "content": {
+      "synonyms": [
+        "昏沉怎麼辦",
+        "昏沉原因",
+        "昏沉看哪科",
+        "昏沉危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "brain-fog",
+    "symptomSlug": "brain-fog",
+    "symptomName": "昏沉",
+    "type": "link",
+    "content": {
+      "related": [
+        {
+          "slug": "headache",
+          "name": "頭痛"
+        },
+        {
+          "slug": "dizziness",
+          "name": "頭暈"
+        },
+        {
+          "slug": "migraine",
+          "name": "偏頭痛"
+        },
+        {
+          "slug": "scalp-pain",
+          "name": "頭皮疼痛"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "scalp-pain",
+    "symptomSlug": "scalp-pain",
+    "symptomName": "頭皮疼痛",
+    "type": "intent",
+    "content": {
+      "keywords": [
+        "頭皮疼痛看哪一科",
+        "頭皮疼痛原因",
+        "頭皮疼痛怎麼辦",
+        "頭皮疼痛需要急診嗎",
+        "頭皮疼痛危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "scalp-pain",
+    "symptomSlug": "scalp-pain",
+    "symptomName": "頭皮疼痛",
+    "type": "faq",
+    "content": {
+      "items": [
+        {
+          "q": "頭皮疼痛可能和頭部有關嗎？",
+          "a": "頭皮疼痛可能與頭部相關，也可能受到生活作息、感染、發炎或其他身體因素影響。"
+        },
+        {
+          "q": "頭皮疼痛應該先看哪一科？",
+          "a": "可以優先考慮皮膚科、神經內科、家醫科；若不確定或症狀複雜，可先由家醫科評估。"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "scalp-pain",
+    "symptomSlug": "scalp-pain",
+    "symptomName": "頭皮疼痛",
+    "type": "synonym",
+    "content": {
+      "synonyms": [
+        "頭皮疼痛怎麼辦",
+        "頭皮疼痛原因",
+        "頭皮疼痛看哪科",
+        "頭皮疼痛危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "scalp-pain",
+    "symptomSlug": "scalp-pain",
+    "symptomName": "頭皮疼痛",
+    "type": "link",
+    "content": {
+      "related": [
+        {
+          "slug": "headache",
+          "name": "頭痛"
+        },
+        {
+          "slug": "dizziness",
+          "name": "頭暈"
+        },
+        {
+          "slug": "migraine",
+          "name": "偏頭痛"
+        },
+        {
+          "slug": "brain-fog",
+          "name": "昏沉"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "red-eye",
+    "symptomSlug": "red-eye",
+    "symptomName": "眼睛紅",
+    "type": "intent",
+    "content": {
+      "keywords": [
+        "眼睛紅看哪一科",
+        "眼睛紅原因",
+        "眼睛紅怎麼辦",
+        "眼睛紅需要急診嗎",
+        "眼睛紅危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "red-eye",
+    "symptomSlug": "red-eye",
+    "symptomName": "眼睛紅",
+    "type": "faq",
+    "content": {
+      "items": [
+        {
+          "q": "眼睛紅可能和眼睛有關嗎？",
+          "a": "眼睛紅可能與眼睛相關，也可能受到生活作息、感染、發炎或其他身體因素影響。"
+        },
+        {
+          "q": "眼睛紅應該先看哪一科？",
+          "a": "可以優先考慮眼科；若不確定或症狀複雜，可先由家醫科評估。"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "red-eye",
+    "symptomSlug": "red-eye",
+    "symptomName": "眼睛紅",
+    "type": "synonym",
+    "content": {
+      "synonyms": [
+        "眼睛紅怎麼辦",
+        "眼睛紅原因",
+        "眼睛紅看哪科",
+        "眼睛紅危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "red-eye",
+    "symptomSlug": "red-eye",
+    "symptomName": "眼睛紅",
+    "type": "link",
+    "content": {
+      "related": [
+        {
+          "slug": "eye-pain",
+          "name": "眼睛痛"
+        },
+        {
+          "slug": "blurred-vision",
+          "name": "視力模糊"
+        },
+        {
+          "slug": "dry-eyes",
+          "name": "眼睛乾澀"
+        },
+        {
+          "slug": "floaters",
+          "name": "飛蚊症"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "eye-pain",
+    "symptomSlug": "eye-pain",
+    "symptomName": "眼睛痛",
+    "type": "intent",
+    "content": {
+      "keywords": [
+        "眼睛痛看哪一科",
+        "眼睛痛原因",
+        "眼睛痛怎麼辦",
+        "眼睛痛需要急診嗎",
+        "眼睛痛危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "eye-pain",
+    "symptomSlug": "eye-pain",
+    "symptomName": "眼睛痛",
+    "type": "faq",
+    "content": {
+      "items": [
+        {
+          "q": "眼睛痛可能和眼睛有關嗎？",
+          "a": "眼睛痛可能與眼睛相關，也可能受到生活作息、感染、發炎或其他身體因素影響。"
+        },
+        {
+          "q": "眼睛痛應該先看哪一科？",
+          "a": "可以優先考慮眼科；若不確定或症狀複雜，可先由家醫科評估。"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "eye-pain",
+    "symptomSlug": "eye-pain",
+    "symptomName": "眼睛痛",
+    "type": "synonym",
+    "content": {
+      "synonyms": [
+        "眼睛痛怎麼辦",
+        "眼睛痛原因",
+        "眼睛痛看哪科",
+        "眼睛痛危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "eye-pain",
+    "symptomSlug": "eye-pain",
+    "symptomName": "眼睛痛",
+    "type": "link",
+    "content": {
+      "related": [
+        {
+          "slug": "red-eye",
+          "name": "眼睛紅"
+        },
+        {
+          "slug": "blurred-vision",
+          "name": "視力模糊"
+        },
+        {
+          "slug": "dry-eyes",
+          "name": "眼睛乾澀"
+        },
+        {
+          "slug": "floaters",
+          "name": "飛蚊症"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "blurred-vision",
+    "symptomSlug": "blurred-vision",
+    "symptomName": "視力模糊",
+    "type": "intent",
+    "content": {
+      "keywords": [
+        "視力模糊看哪一科",
+        "視力模糊原因",
+        "視力模糊怎麼辦",
+        "視力模糊需要急診嗎",
+        "視力模糊危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "blurred-vision",
+    "symptomSlug": "blurred-vision",
+    "symptomName": "視力模糊",
+    "type": "faq",
+    "content": {
+      "items": [
+        {
+          "q": "視力模糊可能和眼睛有關嗎？",
+          "a": "視力模糊可能與眼睛相關，也可能受到生活作息、感染、發炎或其他身體因素影響。"
+        },
+        {
+          "q": "視力模糊應該先看哪一科？",
+          "a": "可以優先考慮眼科；若不確定或症狀複雜，可先由家醫科評估。"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "blurred-vision",
+    "symptomSlug": "blurred-vision",
+    "symptomName": "視力模糊",
+    "type": "synonym",
+    "content": {
+      "synonyms": [
+        "視力模糊怎麼辦",
+        "視力模糊原因",
+        "視力模糊看哪科",
+        "視力模糊危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "blurred-vision",
+    "symptomSlug": "blurred-vision",
+    "symptomName": "視力模糊",
+    "type": "link",
+    "content": {
+      "related": [
+        {
+          "slug": "red-eye",
+          "name": "眼睛紅"
+        },
+        {
+          "slug": "eye-pain",
+          "name": "眼睛痛"
+        },
+        {
+          "slug": "dry-eyes",
+          "name": "眼睛乾澀"
+        },
+        {
+          "slug": "floaters",
+          "name": "飛蚊症"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "dry-eyes",
+    "symptomSlug": "dry-eyes",
+    "symptomName": "眼睛乾澀",
+    "type": "intent",
+    "content": {
+      "keywords": [
+        "眼睛乾澀看哪一科",
+        "眼睛乾澀原因",
+        "眼睛乾澀怎麼辦",
+        "眼睛乾澀需要急診嗎",
+        "眼睛乾澀危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "dry-eyes",
+    "symptomSlug": "dry-eyes",
+    "symptomName": "眼睛乾澀",
+    "type": "faq",
+    "content": {
+      "items": [
+        {
+          "q": "眼睛乾澀可能和眼睛有關嗎？",
+          "a": "眼睛乾澀可能與眼睛相關，也可能受到生活作息、感染、發炎或其他身體因素影響。"
+        },
+        {
+          "q": "眼睛乾澀應該先看哪一科？",
+          "a": "可以優先考慮眼科；若不確定或症狀複雜，可先由家醫科評估。"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "dry-eyes",
+    "symptomSlug": "dry-eyes",
+    "symptomName": "眼睛乾澀",
+    "type": "synonym",
+    "content": {
+      "synonyms": [
+        "眼睛乾澀怎麼辦",
+        "眼睛乾澀原因",
+        "眼睛乾澀看哪科",
+        "眼睛乾澀危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "dry-eyes",
+    "symptomSlug": "dry-eyes",
+    "symptomName": "眼睛乾澀",
+    "type": "link",
+    "content": {
+      "related": [
+        {
+          "slug": "red-eye",
+          "name": "眼睛紅"
+        },
+        {
+          "slug": "eye-pain",
+          "name": "眼睛痛"
+        },
+        {
+          "slug": "blurred-vision",
+          "name": "視力模糊"
+        },
+        {
+          "slug": "floaters",
+          "name": "飛蚊症"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "floaters",
+    "symptomSlug": "floaters",
+    "symptomName": "飛蚊症",
+    "type": "intent",
+    "content": {
+      "keywords": [
+        "飛蚊症看哪一科",
+        "飛蚊症原因",
+        "飛蚊症怎麼辦",
+        "飛蚊症需要急診嗎",
+        "飛蚊症危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "floaters",
+    "symptomSlug": "floaters",
+    "symptomName": "飛蚊症",
+    "type": "faq",
+    "content": {
+      "items": [
+        {
+          "q": "飛蚊症可能和眼睛有關嗎？",
+          "a": "飛蚊症可能與眼睛相關，也可能受到生活作息、感染、發炎或其他身體因素影響。"
+        },
+        {
+          "q": "飛蚊症應該先看哪一科？",
+          "a": "可以優先考慮眼科；若不確定或症狀複雜，可先由家醫科評估。"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "floaters",
+    "symptomSlug": "floaters",
+    "symptomName": "飛蚊症",
+    "type": "synonym",
+    "content": {
+      "synonyms": [
+        "飛蚊症怎麼辦",
+        "飛蚊症原因",
+        "飛蚊症看哪科",
+        "飛蚊症危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "floaters",
+    "symptomSlug": "floaters",
+    "symptomName": "飛蚊症",
+    "type": "link",
+    "content": {
+      "related": [
+        {
+          "slug": "red-eye",
+          "name": "眼睛紅"
+        },
+        {
+          "slug": "eye-pain",
+          "name": "眼睛痛"
+        },
+        {
+          "slug": "blurred-vision",
+          "name": "視力模糊"
+        },
+        {
+          "slug": "dry-eyes",
+          "name": "眼睛乾澀"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "ear-pain",
+    "symptomSlug": "ear-pain",
+    "symptomName": "耳痛",
+    "type": "intent",
+    "content": {
+      "keywords": [
+        "耳痛看哪一科",
+        "耳痛原因",
+        "耳痛怎麼辦",
+        "耳痛需要急診嗎",
+        "耳痛危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "ear-pain",
+    "symptomSlug": "ear-pain",
+    "symptomName": "耳痛",
+    "type": "faq",
+    "content": {
+      "items": [
+        {
+          "q": "耳痛可能和耳朵有關嗎？",
+          "a": "耳痛可能與耳朵相關，也可能受到生活作息、感染、發炎或其他身體因素影響。"
+        },
+        {
+          "q": "耳痛應該先看哪一科？",
+          "a": "可以優先考慮耳鼻喉科、家醫科；若不確定或症狀複雜，可先由家醫科評估。"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "ear-pain",
+    "symptomSlug": "ear-pain",
+    "symptomName": "耳痛",
+    "type": "synonym",
+    "content": {
+      "synonyms": [
+        "耳痛怎麼辦",
+        "耳痛原因",
+        "耳痛看哪科",
+        "耳痛危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "ear-pain",
+    "symptomSlug": "ear-pain",
+    "symptomName": "耳痛",
+    "type": "link",
+    "content": {
+      "related": [
+        {
+          "slug": "tinnitus",
+          "name": "耳鳴"
+        },
+        {
+          "slug": "hearing-loss",
+          "name": "聽力下降"
+        },
+        {
+          "slug": "ear-fullness",
+          "name": "耳朵悶塞"
+        },
+        {
+          "slug": "vertigo",
+          "name": "眩暈"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "tinnitus",
+    "symptomSlug": "tinnitus",
+    "symptomName": "耳鳴",
+    "type": "intent",
+    "content": {
+      "keywords": [
+        "耳鳴看哪一科",
+        "耳鳴原因",
+        "耳鳴怎麼辦",
+        "耳鳴需要急診嗎",
+        "耳鳴危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "tinnitus",
+    "symptomSlug": "tinnitus",
+    "symptomName": "耳鳴",
+    "type": "faq",
+    "content": {
+      "items": [
+        {
+          "q": "耳鳴可能和耳朵有關嗎？",
+          "a": "耳鳴可能與耳朵相關，也可能受到生活作息、感染、發炎或其他身體因素影響。"
+        },
+        {
+          "q": "耳鳴應該先看哪一科？",
+          "a": "可以優先考慮耳鼻喉科；若不確定或症狀複雜，可先由家醫科評估。"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "tinnitus",
+    "symptomSlug": "tinnitus",
+    "symptomName": "耳鳴",
+    "type": "synonym",
+    "content": {
+      "synonyms": [
+        "耳鳴怎麼辦",
+        "耳鳴原因",
+        "耳鳴看哪科",
+        "耳鳴危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "tinnitus",
+    "symptomSlug": "tinnitus",
+    "symptomName": "耳鳴",
+    "type": "link",
+    "content": {
+      "related": [
+        {
+          "slug": "ear-pain",
+          "name": "耳痛"
+        },
+        {
+          "slug": "hearing-loss",
+          "name": "聽力下降"
+        },
+        {
+          "slug": "ear-fullness",
+          "name": "耳朵悶塞"
+        },
+        {
+          "slug": "vertigo",
+          "name": "眩暈"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "hearing-loss",
+    "symptomSlug": "hearing-loss",
+    "symptomName": "聽力下降",
+    "type": "intent",
+    "content": {
+      "keywords": [
+        "聽力下降看哪一科",
+        "聽力下降原因",
+        "聽力下降怎麼辦",
+        "聽力下降需要急診嗎",
+        "聽力下降危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "hearing-loss",
+    "symptomSlug": "hearing-loss",
+    "symptomName": "聽力下降",
+    "type": "faq",
+    "content": {
+      "items": [
+        {
+          "q": "聽力下降可能和耳朵有關嗎？",
+          "a": "聽力下降可能與耳朵相關，也可能受到生活作息、感染、發炎或其他身體因素影響。"
+        },
+        {
+          "q": "聽力下降應該先看哪一科？",
+          "a": "可以優先考慮耳鼻喉科；若不確定或症狀複雜，可先由家醫科評估。"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "hearing-loss",
+    "symptomSlug": "hearing-loss",
+    "symptomName": "聽力下降",
+    "type": "synonym",
+    "content": {
+      "synonyms": [
+        "聽力下降怎麼辦",
+        "聽力下降原因",
+        "聽力下降看哪科",
+        "聽力下降危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "hearing-loss",
+    "symptomSlug": "hearing-loss",
+    "symptomName": "聽力下降",
+    "type": "link",
+    "content": {
+      "related": [
+        {
+          "slug": "ear-pain",
+          "name": "耳痛"
+        },
+        {
+          "slug": "tinnitus",
+          "name": "耳鳴"
+        },
+        {
+          "slug": "ear-fullness",
+          "name": "耳朵悶塞"
+        },
+        {
+          "slug": "vertigo",
+          "name": "眩暈"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "ear-fullness",
+    "symptomSlug": "ear-fullness",
+    "symptomName": "耳朵悶塞",
+    "type": "intent",
+    "content": {
+      "keywords": [
+        "耳朵悶塞看哪一科",
+        "耳朵悶塞原因",
+        "耳朵悶塞怎麼辦",
+        "耳朵悶塞需要急診嗎",
+        "耳朵悶塞危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "ear-fullness",
+    "symptomSlug": "ear-fullness",
+    "symptomName": "耳朵悶塞",
+    "type": "faq",
+    "content": {
+      "items": [
+        {
+          "q": "耳朵悶塞可能和耳朵有關嗎？",
+          "a": "耳朵悶塞可能與耳朵相關，也可能受到生活作息、感染、發炎或其他身體因素影響。"
+        },
+        {
+          "q": "耳朵悶塞應該先看哪一科？",
+          "a": "可以優先考慮耳鼻喉科、家醫科；若不確定或症狀複雜，可先由家醫科評估。"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "ear-fullness",
+    "symptomSlug": "ear-fullness",
+    "symptomName": "耳朵悶塞",
+    "type": "synonym",
+    "content": {
+      "synonyms": [
+        "耳朵悶塞怎麼辦",
+        "耳朵悶塞原因",
+        "耳朵悶塞看哪科",
+        "耳朵悶塞危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "ear-fullness",
+    "symptomSlug": "ear-fullness",
+    "symptomName": "耳朵悶塞",
+    "type": "link",
+    "content": {
+      "related": [
+        {
+          "slug": "ear-pain",
+          "name": "耳痛"
+        },
+        {
+          "slug": "tinnitus",
+          "name": "耳鳴"
+        },
+        {
+          "slug": "hearing-loss",
+          "name": "聽力下降"
+        },
+        {
+          "slug": "vertigo",
+          "name": "眩暈"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "vertigo",
+    "symptomSlug": "vertigo",
+    "symptomName": "眩暈",
+    "type": "intent",
+    "content": {
+      "keywords": [
+        "眩暈看哪一科",
+        "眩暈原因",
+        "眩暈怎麼辦",
+        "眩暈需要急診嗎",
+        "眩暈危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "vertigo",
+    "symptomSlug": "vertigo",
+    "symptomName": "眩暈",
+    "type": "faq",
+    "content": {
+      "items": [
+        {
+          "q": "眩暈可能和耳朵有關嗎？",
+          "a": "眩暈可能與耳朵相關，也可能受到生活作息、感染、發炎或其他身體因素影響。"
+        },
+        {
+          "q": "眩暈應該先看哪一科？",
+          "a": "可以優先考慮耳鼻喉科、神經內科；若不確定或症狀複雜，可先由家醫科評估。"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "vertigo",
+    "symptomSlug": "vertigo",
+    "symptomName": "眩暈",
+    "type": "synonym",
+    "content": {
+      "synonyms": [
+        "眩暈怎麼辦",
+        "眩暈原因",
+        "眩暈看哪科",
+        "眩暈危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "vertigo",
+    "symptomSlug": "vertigo",
+    "symptomName": "眩暈",
+    "type": "link",
+    "content": {
+      "related": [
+        {
+          "slug": "ear-pain",
+          "name": "耳痛"
+        },
+        {
+          "slug": "tinnitus",
+          "name": "耳鳴"
+        },
+        {
+          "slug": "hearing-loss",
+          "name": "聽力下降"
+        },
+        {
+          "slug": "ear-fullness",
+          "name": "耳朵悶塞"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "nasal-congestion",
+    "symptomSlug": "nasal-congestion",
+    "symptomName": "鼻塞",
+    "type": "intent",
+    "content": {
+      "keywords": [
+        "鼻塞看哪一科",
+        "鼻塞原因",
+        "鼻塞怎麼辦",
+        "鼻塞需要急診嗎",
+        "鼻塞危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "nasal-congestion",
+    "symptomSlug": "nasal-congestion",
+    "symptomName": "鼻塞",
+    "type": "faq",
+    "content": {
+      "items": [
+        {
+          "q": "鼻塞可能和鼻子有關嗎？",
+          "a": "鼻塞可能與鼻子相關，也可能受到生活作息、感染、發炎或其他身體因素影響。"
+        },
+        {
+          "q": "鼻塞應該先看哪一科？",
+          "a": "可以優先考慮耳鼻喉科、家醫科；若不確定或症狀複雜，可先由家醫科評估。"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "nasal-congestion",
+    "symptomSlug": "nasal-congestion",
+    "symptomName": "鼻塞",
+    "type": "synonym",
+    "content": {
+      "synonyms": [
+        "鼻塞怎麼辦",
+        "鼻塞原因",
+        "鼻塞看哪科",
+        "鼻塞危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "nasal-congestion",
+    "symptomSlug": "nasal-congestion",
+    "symptomName": "鼻塞",
+    "type": "link",
+    "content": {
+      "related": [
+        {
+          "slug": "runny-nose",
+          "name": "流鼻水"
+        },
+        {
+          "slug": "nosebleed",
+          "name": "鼻血"
+        },
+        {
+          "slug": "sinus-pain",
+          "name": "鼻竇痛"
+        },
+        {
+          "slug": "smell-loss",
+          "name": "嗅覺異常"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "runny-nose",
+    "symptomSlug": "runny-nose",
+    "symptomName": "流鼻水",
+    "type": "intent",
+    "content": {
+      "keywords": [
+        "流鼻水看哪一科",
+        "流鼻水原因",
+        "流鼻水怎麼辦",
+        "流鼻水需要急診嗎",
+        "流鼻水危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "runny-nose",
+    "symptomSlug": "runny-nose",
+    "symptomName": "流鼻水",
+    "type": "faq",
+    "content": {
+      "items": [
+        {
+          "q": "流鼻水可能和鼻子有關嗎？",
+          "a": "流鼻水可能與鼻子相關，也可能受到生活作息、感染、發炎或其他身體因素影響。"
+        },
+        {
+          "q": "流鼻水應該先看哪一科？",
+          "a": "可以優先考慮耳鼻喉科、家醫科；若不確定或症狀複雜，可先由家醫科評估。"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "runny-nose",
+    "symptomSlug": "runny-nose",
+    "symptomName": "流鼻水",
+    "type": "synonym",
+    "content": {
+      "synonyms": [
+        "流鼻水怎麼辦",
+        "流鼻水原因",
+        "流鼻水看哪科",
+        "流鼻水危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "runny-nose",
+    "symptomSlug": "runny-nose",
+    "symptomName": "流鼻水",
+    "type": "link",
+    "content": {
+      "related": [
+        {
+          "slug": "nasal-congestion",
+          "name": "鼻塞"
+        },
+        {
+          "slug": "nosebleed",
+          "name": "鼻血"
+        },
+        {
+          "slug": "sinus-pain",
+          "name": "鼻竇痛"
+        },
+        {
+          "slug": "smell-loss",
+          "name": "嗅覺異常"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "nosebleed",
+    "symptomSlug": "nosebleed",
+    "symptomName": "鼻血",
+    "type": "intent",
+    "content": {
+      "keywords": [
+        "鼻血看哪一科",
+        "鼻血原因",
+        "鼻血怎麼辦",
+        "鼻血需要急診嗎",
+        "鼻血危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "nosebleed",
+    "symptomSlug": "nosebleed",
+    "symptomName": "鼻血",
+    "type": "faq",
+    "content": {
+      "items": [
+        {
+          "q": "鼻血可能和鼻子有關嗎？",
+          "a": "鼻血可能與鼻子相關，也可能受到生活作息、感染、發炎或其他身體因素影響。"
+        },
+        {
+          "q": "鼻血應該先看哪一科？",
+          "a": "可以優先考慮耳鼻喉科、家醫科；若不確定或症狀複雜，可先由家醫科評估。"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "nosebleed",
+    "symptomSlug": "nosebleed",
+    "symptomName": "鼻血",
+    "type": "synonym",
+    "content": {
+      "synonyms": [
+        "鼻血怎麼辦",
+        "鼻血原因",
+        "鼻血看哪科",
+        "鼻血危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "nosebleed",
+    "symptomSlug": "nosebleed",
+    "symptomName": "鼻血",
+    "type": "link",
+    "content": {
+      "related": [
+        {
+          "slug": "nasal-congestion",
+          "name": "鼻塞"
+        },
+        {
+          "slug": "runny-nose",
+          "name": "流鼻水"
+        },
+        {
+          "slug": "sinus-pain",
+          "name": "鼻竇痛"
+        },
+        {
+          "slug": "smell-loss",
+          "name": "嗅覺異常"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "sinus-pain",
+    "symptomSlug": "sinus-pain",
+    "symptomName": "鼻竇痛",
+    "type": "intent",
+    "content": {
+      "keywords": [
+        "鼻竇痛看哪一科",
+        "鼻竇痛原因",
+        "鼻竇痛怎麼辦",
+        "鼻竇痛需要急診嗎",
+        "鼻竇痛危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "sinus-pain",
+    "symptomSlug": "sinus-pain",
+    "symptomName": "鼻竇痛",
+    "type": "faq",
+    "content": {
+      "items": [
+        {
+          "q": "鼻竇痛可能和鼻子有關嗎？",
+          "a": "鼻竇痛可能與鼻子相關，也可能受到生活作息、感染、發炎或其他身體因素影響。"
+        },
+        {
+          "q": "鼻竇痛應該先看哪一科？",
+          "a": "可以優先考慮耳鼻喉科、家醫科；若不確定或症狀複雜，可先由家醫科評估。"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "sinus-pain",
+    "symptomSlug": "sinus-pain",
+    "symptomName": "鼻竇痛",
+    "type": "synonym",
+    "content": {
+      "synonyms": [
+        "鼻竇痛怎麼辦",
+        "鼻竇痛原因",
+        "鼻竇痛看哪科",
+        "鼻竇痛危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "sinus-pain",
+    "symptomSlug": "sinus-pain",
+    "symptomName": "鼻竇痛",
+    "type": "link",
+    "content": {
+      "related": [
+        {
+          "slug": "nasal-congestion",
+          "name": "鼻塞"
+        },
+        {
+          "slug": "runny-nose",
+          "name": "流鼻水"
+        },
+        {
+          "slug": "nosebleed",
+          "name": "鼻血"
+        },
+        {
+          "slug": "smell-loss",
+          "name": "嗅覺異常"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "smell-loss",
+    "symptomSlug": "smell-loss",
+    "symptomName": "嗅覺異常",
+    "type": "intent",
+    "content": {
+      "keywords": [
+        "嗅覺異常看哪一科",
+        "嗅覺異常原因",
+        "嗅覺異常怎麼辦",
+        "嗅覺異常需要急診嗎",
+        "嗅覺異常危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "smell-loss",
+    "symptomSlug": "smell-loss",
+    "symptomName": "嗅覺異常",
+    "type": "faq",
+    "content": {
+      "items": [
+        {
+          "q": "嗅覺異常可能和鼻子有關嗎？",
+          "a": "嗅覺異常可能與鼻子相關，也可能受到生活作息、感染、發炎或其他身體因素影響。"
+        },
+        {
+          "q": "嗅覺異常應該先看哪一科？",
+          "a": "可以優先考慮耳鼻喉科；若不確定或症狀複雜，可先由家醫科評估。"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "smell-loss",
+    "symptomSlug": "smell-loss",
+    "symptomName": "嗅覺異常",
+    "type": "synonym",
+    "content": {
+      "synonyms": [
+        "嗅覺異常怎麼辦",
+        "嗅覺異常原因",
+        "嗅覺異常看哪科",
+        "嗅覺異常危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "smell-loss",
+    "symptomSlug": "smell-loss",
+    "symptomName": "嗅覺異常",
+    "type": "link",
+    "content": {
+      "related": [
+        {
+          "slug": "nasal-congestion",
+          "name": "鼻塞"
+        },
+        {
+          "slug": "runny-nose",
+          "name": "流鼻水"
+        },
+        {
+          "slug": "nosebleed",
+          "name": "鼻血"
+        },
+        {
+          "slug": "sinus-pain",
+          "name": "鼻竇痛"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "sore-throat",
+    "symptomSlug": "sore-throat",
+    "symptomName": "喉嚨痛",
+    "type": "intent",
+    "content": {
+      "keywords": [
+        "喉嚨痛看哪一科",
+        "喉嚨痛原因",
+        "喉嚨痛怎麼辦",
+        "喉嚨痛需要急診嗎",
+        "喉嚨痛危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "sore-throat",
+    "symptomSlug": "sore-throat",
+    "symptomName": "喉嚨痛",
+    "type": "faq",
+    "content": {
+      "items": [
+        {
+          "q": "喉嚨痛可能和喉嚨有關嗎？",
+          "a": "喉嚨痛可能與喉嚨相關，也可能受到生活作息、感染、發炎或其他身體因素影響。"
+        },
+        {
+          "q": "喉嚨痛應該先看哪一科？",
+          "a": "可以優先考慮耳鼻喉科、家醫科；若不確定或症狀複雜，可先由家醫科評估。"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "sore-throat",
+    "symptomSlug": "sore-throat",
+    "symptomName": "喉嚨痛",
+    "type": "synonym",
+    "content": {
+      "synonyms": [
+        "喉嚨痛怎麼辦",
+        "喉嚨痛原因",
+        "喉嚨痛看哪科",
+        "喉嚨痛危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "sore-throat",
+    "symptomSlug": "sore-throat",
+    "symptomName": "喉嚨痛",
+    "type": "link",
+    "content": {
+      "related": [
+        {
+          "slug": "difficulty-swallowing",
+          "name": "吞嚥困難"
+        },
+        {
+          "slug": "hoarseness",
+          "name": "聲音沙啞"
+        },
+        {
+          "slug": "throat-lump",
+          "name": "喉嚨異物感"
+        },
+        {
+          "slug": "chronic-cough",
+          "name": "慢性咳嗽"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "difficulty-swallowing",
+    "symptomSlug": "difficulty-swallowing",
+    "symptomName": "吞嚥困難",
+    "type": "intent",
+    "content": {
+      "keywords": [
+        "吞嚥困難看哪一科",
+        "吞嚥困難原因",
+        "吞嚥困難怎麼辦",
+        "吞嚥困難需要急診嗎",
+        "吞嚥困難危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "difficulty-swallowing",
+    "symptomSlug": "difficulty-swallowing",
+    "symptomName": "吞嚥困難",
+    "type": "faq",
+    "content": {
+      "items": [
+        {
+          "q": "吞嚥困難可能和喉嚨有關嗎？",
+          "a": "吞嚥困難可能與喉嚨相關，也可能受到生活作息、感染、發炎或其他身體因素影響。"
+        },
+        {
+          "q": "吞嚥困難應該先看哪一科？",
+          "a": "可以優先考慮耳鼻喉科、腸胃內科；若不確定或症狀複雜，可先由家醫科評估。"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "difficulty-swallowing",
+    "symptomSlug": "difficulty-swallowing",
+    "symptomName": "吞嚥困難",
+    "type": "synonym",
+    "content": {
+      "synonyms": [
+        "吞嚥困難怎麼辦",
+        "吞嚥困難原因",
+        "吞嚥困難看哪科",
+        "吞嚥困難危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "difficulty-swallowing",
+    "symptomSlug": "difficulty-swallowing",
+    "symptomName": "吞嚥困難",
+    "type": "link",
+    "content": {
+      "related": [
+        {
+          "slug": "sore-throat",
+          "name": "喉嚨痛"
+        },
+        {
+          "slug": "hoarseness",
+          "name": "聲音沙啞"
+        },
+        {
+          "slug": "throat-lump",
+          "name": "喉嚨異物感"
+        },
+        {
+          "slug": "chronic-cough",
+          "name": "慢性咳嗽"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "hoarseness",
+    "symptomSlug": "hoarseness",
+    "symptomName": "聲音沙啞",
+    "type": "intent",
+    "content": {
+      "keywords": [
+        "聲音沙啞看哪一科",
+        "聲音沙啞原因",
+        "聲音沙啞怎麼辦",
+        "聲音沙啞需要急診嗎",
+        "聲音沙啞危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "hoarseness",
+    "symptomSlug": "hoarseness",
+    "symptomName": "聲音沙啞",
+    "type": "faq",
+    "content": {
+      "items": [
+        {
+          "q": "聲音沙啞可能和喉嚨有關嗎？",
+          "a": "聲音沙啞可能與喉嚨相關，也可能受到生活作息、感染、發炎或其他身體因素影響。"
+        },
+        {
+          "q": "聲音沙啞應該先看哪一科？",
+          "a": "可以優先考慮耳鼻喉科；若不確定或症狀複雜，可先由家醫科評估。"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "hoarseness",
+    "symptomSlug": "hoarseness",
+    "symptomName": "聲音沙啞",
+    "type": "synonym",
+    "content": {
+      "synonyms": [
+        "聲音沙啞怎麼辦",
+        "聲音沙啞原因",
+        "聲音沙啞看哪科",
+        "聲音沙啞危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "hoarseness",
+    "symptomSlug": "hoarseness",
+    "symptomName": "聲音沙啞",
+    "type": "link",
+    "content": {
+      "related": [
+        {
+          "slug": "sore-throat",
+          "name": "喉嚨痛"
+        },
+        {
+          "slug": "difficulty-swallowing",
+          "name": "吞嚥困難"
+        },
+        {
+          "slug": "throat-lump",
+          "name": "喉嚨異物感"
+        },
+        {
+          "slug": "chronic-cough",
+          "name": "慢性咳嗽"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "throat-lump",
+    "symptomSlug": "throat-lump",
+    "symptomName": "喉嚨異物感",
+    "type": "intent",
+    "content": {
+      "keywords": [
+        "喉嚨異物感看哪一科",
+        "喉嚨異物感原因",
+        "喉嚨異物感怎麼辦",
+        "喉嚨異物感需要急診嗎",
+        "喉嚨異物感危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "throat-lump",
+    "symptomSlug": "throat-lump",
+    "symptomName": "喉嚨異物感",
+    "type": "faq",
+    "content": {
+      "items": [
+        {
+          "q": "喉嚨異物感可能和喉嚨有關嗎？",
+          "a": "喉嚨異物感可能與喉嚨相關，也可能受到生活作息、感染、發炎或其他身體因素影響。"
+        },
+        {
+          "q": "喉嚨異物感應該先看哪一科？",
+          "a": "可以優先考慮耳鼻喉科、腸胃內科、家醫科；若不確定或症狀複雜，可先由家醫科評估。"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "throat-lump",
+    "symptomSlug": "throat-lump",
+    "symptomName": "喉嚨異物感",
+    "type": "synonym",
+    "content": {
+      "synonyms": [
+        "喉嚨異物感怎麼辦",
+        "喉嚨異物感原因",
+        "喉嚨異物感看哪科",
+        "喉嚨異物感危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "throat-lump",
+    "symptomSlug": "throat-lump",
+    "symptomName": "喉嚨異物感",
+    "type": "link",
+    "content": {
+      "related": [
+        {
+          "slug": "sore-throat",
+          "name": "喉嚨痛"
+        },
+        {
+          "slug": "difficulty-swallowing",
+          "name": "吞嚥困難"
+        },
+        {
+          "slug": "hoarseness",
+          "name": "聲音沙啞"
+        },
+        {
+          "slug": "chronic-cough",
+          "name": "慢性咳嗽"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "chronic-cough",
+    "symptomSlug": "chronic-cough",
+    "symptomName": "慢性咳嗽",
+    "type": "intent",
+    "content": {
+      "keywords": [
+        "慢性咳嗽看哪一科",
+        "慢性咳嗽原因",
+        "慢性咳嗽怎麼辦",
+        "慢性咳嗽需要急診嗎",
+        "慢性咳嗽危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "chronic-cough",
+    "symptomSlug": "chronic-cough",
+    "symptomName": "慢性咳嗽",
+    "type": "faq",
+    "content": {
+      "items": [
+        {
+          "q": "慢性咳嗽可能和喉嚨有關嗎？",
+          "a": "慢性咳嗽可能與喉嚨相關，也可能受到生活作息、感染、發炎或其他身體因素影響。"
+        },
+        {
+          "q": "慢性咳嗽應該先看哪一科？",
+          "a": "可以優先考慮胸腔內科、耳鼻喉科、家醫科；若不確定或症狀複雜，可先由家醫科評估。"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "chronic-cough",
+    "symptomSlug": "chronic-cough",
+    "symptomName": "慢性咳嗽",
+    "type": "synonym",
+    "content": {
+      "synonyms": [
+        "慢性咳嗽怎麼辦",
+        "慢性咳嗽原因",
+        "慢性咳嗽看哪科",
+        "慢性咳嗽危險嗎"
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  },
+  {
+    "symptomId": "chronic-cough",
+    "symptomSlug": "chronic-cough",
+    "symptomName": "慢性咳嗽",
+    "type": "link",
+    "content": {
+      "related": [
+        {
+          "slug": "sore-throat",
+          "name": "喉嚨痛"
+        },
+        {
+          "slug": "difficulty-swallowing",
+          "name": "吞嚥困難"
+        },
+        {
+          "slug": "hoarseness",
+          "name": "聲音沙啞"
+        },
+        {
+          "slug": "throat-lump",
+          "name": "喉嚨異物感"
+        }
+      ]
+    },
+    "source": "daily-rule-engine",
+    "reviewStatus": "pending",
+    "safetyNotes": "Generated as low-risk SEO support content. Requires review before publication.",
+    "createdAt": "2026-05-09T14:05:08.493Z"
+  }
+]

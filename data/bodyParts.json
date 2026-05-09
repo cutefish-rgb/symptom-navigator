@@ -1,0 +1,98 @@
+[
+  {
+    "id": "head",
+    "slug": "head",
+    "name": "頭部",
+    "imageKey": "head"
+  },
+  {
+    "id": "eyes",
+    "slug": "eyes",
+    "name": "眼睛",
+    "imageKey": "eyes"
+  },
+  {
+    "id": "ears",
+    "slug": "ears",
+    "name": "耳朵",
+    "imageKey": "ears"
+  },
+  {
+    "id": "nose",
+    "slug": "nose",
+    "name": "鼻子",
+    "imageKey": "nose"
+  },
+  {
+    "id": "throat",
+    "slug": "throat",
+    "name": "喉嚨",
+    "imageKey": "throat"
+  },
+  {
+    "id": "chest",
+    "slug": "chest",
+    "name": "胸口",
+    "imageKey": "chest"
+  },
+  {
+    "id": "abdomen",
+    "slug": "abdomen",
+    "name": "腹部",
+    "imageKey": "abdomen"
+  },
+  {
+    "id": "back",
+    "slug": "back",
+    "name": "背部",
+    "imageKey": "back"
+  },
+  {
+    "id": "joints",
+    "slug": "joints",
+    "name": "關節",
+    "imageKey": "joints"
+  },
+  {
+    "id": "skin",
+    "slug": "skin",
+    "name": "皮膚",
+    "imageKey": "skin"
+  },
+  {
+    "id": "urinary",
+    "slug": "urinary",
+    "name": "泌尿",
+    "imageKey": "urinary"
+  },
+  {
+    "id": "liver",
+    "slug": "liver",
+    "name": "肝膽",
+    "imageKey": "liver"
+  },
+  {
+    "id": "blood",
+    "slug": "blood",
+    "name": "血液",
+    "imageKey": "blood"
+  },
+  {
+    "id": "heart",
+    "slug": "heart",
+    "name": "心臟",
+    "imageKey": "heart"
+  },
+  {
+    "id": "neuro",
+    "slug": "neuro",
+    "name": "神經",
+    "imageKey": "neuro"
+  },
+  {
+    "id": "ortho",
+    "slug": "ortho",
+    "name": "骨科",
+    "imageKey": "ortho"
+  }
+]

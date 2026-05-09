@@ -1,0 +1,28 @@
+<svg width="360" height="640" viewBox="0 0 360 640" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="人體正面部位示意圖">
+  <rect width="360" height="640" rx="28" fill="#F8FBFA"/>
+  <path d="M63 581C94 609 265 609 297 581" stroke="#D9E5E0" stroke-width="2" stroke-linecap="round"/>
+  <path d="M180 48C205.405 48 226 68.5949 226 94C226 119.405 205.405 140 180 140C154.595 140 134 119.405 134 94C134 68.5949 154.595 48 180 48Z" fill="#EEF7F4" stroke="#2A5148" stroke-width="3"/>
+  <path d="M151 92C159 86 169 84 180 84C191 84 201 86 209 92" stroke="#6F8F86" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M165 108C174 114 186 114 195 108" stroke="#6F8F86" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M154 78C162 70 170 66 180 66C190 66 198 70 206 78" stroke="#B7CBC4" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M160 142C162 157 170 166 180 166C190 166 198 157 200 142" stroke="#2A5148" stroke-width="3" stroke-linecap="round"/>
+  <path d="M128 178C128 156 146 138 168 138H192C214 138 232 156 232 178V316C232 345 209 368 180 368C151 368 128 345 128 316V178Z" fill="#EAF5F1" stroke="#2A5148" stroke-width="3"/>
+  <path d="M180 166V367" stroke="#B7CBC4" stroke-width="2" stroke-linecap="round"/>
+  <path d="M141 212C151 199 164 193 180 193C196 193 209 199 219 212" stroke="#6F8F86" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M145 257H215" stroke="#B7CBC4" stroke-width="2" stroke-linecap="round"/>
+  <path d="M151 296C164 304 196 304 209 296" stroke="#B7CBC4" stroke-width="2" stroke-linecap="round"/>
+  <path d="M128 184C106 207 92 238 80 279C75 296 82 314 98 321C114 328 132 320 138 304L151 268" fill="#EAF5F1"/>
+  <path d="M128 184C106 207 92 238 80 279C75 296 82 314 98 321C114 328 132 320 138 304L151 268" stroke="#2A5148" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M232 184C254 207 268 238 280 279C285 296 278 314 262 321C246 328 228 320 222 304L209 268" fill="#EAF5F1"/>
+  <path d="M232 184C254 207 268 238 280 279C285 296 278 314 262 321C246 328 228 320 222 304L209 268" stroke="#2A5148" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M147 351C134 402 126 460 120 540C119 560 133 577 153 578C172 579 188 564 188 545L180 378" fill="#EAF5F1"/>
+  <path d="M147 351C134 402 126 460 120 540C119 560 133 577 153 578C172 579 188 564 188 545L180 378" stroke="#2A5148" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M213 351C226 402 234 460 240 540C241 560 227 577 207 578C188 579 172 564 172 545L180 378" fill="#EAF5F1"/>
+  <path d="M213 351C226 402 234 460 240 540C241 560 227 577 207 578C188 579 172 564 172 545L180 378" stroke="#2A5148" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="180" cy="94" r="54" stroke="#DDEAE6" stroke-width="10" opacity=".8"/>
+  <circle cx="180" cy="236" r="86" stroke="#DDEAE6" stroke-width="10" opacity=".55"/>
+  <circle cx="180" cy="466" r="104" stroke="#DDEAE6" stroke-width="10" opacity=".4"/>
+  <circle cx="180" cy="94" r="5" fill="#217C68"/>
+  <circle cx="180" cy="238" r="5" fill="#217C68"/>
+  <circle cx="180" cy="336" r="5" fill="#217C68"/>
+</svg>

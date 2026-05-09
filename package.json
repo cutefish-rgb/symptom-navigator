@@ -1,0 +1,35 @@
+{
+  "name": "symptom-navigator",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "dev:preview": "next dev --port 3001",
+    "build": "next build",
+    "start": "next start",
+    "preview": "next start --port 3001",
+    "lint": "next lint",
+    "seed:supabase": "node scripts/generate-supabase-seed.mjs",
+    "ai:daily": "node scripts/daily-ai.mjs",
+    "ai:seed": "node scripts/generate-ai-content-seed.mjs",
+    "expand:symptoms": "node scripts/expand-symptoms.mjs",
+    "generate:seo": "node scripts/generate-seo.mjs",
+    "generate:sitemap": "node scripts/generate-sitemap.mjs",
+    "build:full": "npm run generate:seo && npm run generate:sitemap && next build",
+    "build:ai": "npm run expand:symptoms && SEO_USE_EXPANDED=true npm run generate:seo && npm run generate:sitemap && next build"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.105.4",
+    "next": "16.2.6",
+    "react": "19.2.6",
+    "react-dom": "19.2.6"
+  },
+  "devDependencies": {
+    "@types/node": "25.6.2",
+    "@types/react": "19.2.14",
+    "@types/react-dom": "19.2.3",
+    "eslint": "10.3.0",
+    "eslint-config-next": "16.2.6",
+    "typescript": "6.0.3"
+  }
+}

@@ -1,0 +1,597 @@
+[
+  {
+    "id": "headache",
+    "bodyPartId": "head",
+    "slug": "headache",
+    "name": "頭痛",
+    "description": "頭部悶痛、刺痛、抽痛或壓迫感。"
+  },
+  {
+    "id": "dizziness",
+    "bodyPartId": "head",
+    "slug": "dizziness",
+    "name": "頭暈",
+    "description": "頭重腳輕、站不穩或感覺快要暈倒。"
+  },
+  {
+    "id": "migraine",
+    "bodyPartId": "head",
+    "slug": "migraine",
+    "name": "偏頭痛",
+    "description": "單側搏動性疼痛，可能伴隨噁心或畏光。"
+  },
+  {
+    "id": "brain-fog",
+    "bodyPartId": "head",
+    "slug": "brain-fog",
+    "name": "昏沉",
+    "description": "精神不清爽、注意力下降或腦袋混沌。"
+  },
+  {
+    "id": "scalp-pain",
+    "bodyPartId": "head",
+    "slug": "scalp-pain",
+    "name": "頭皮疼痛",
+    "description": "頭皮局部疼痛、刺痛或觸碰時敏感。"
+  },
+  {
+    "id": "red-eye",
+    "bodyPartId": "eyes",
+    "slug": "red-eye",
+    "name": "眼睛紅",
+    "description": "眼白泛紅，可能伴隨分泌物或刺激感。"
+  },
+  {
+    "id": "eye-pain",
+    "bodyPartId": "eyes",
+    "slug": "eye-pain",
+    "name": "眼睛痛",
+    "description": "眼球、眼眶或眼周疼痛。"
+  },
+  {
+    "id": "blurred-vision",
+    "bodyPartId": "eyes",
+    "slug": "blurred-vision",
+    "name": "視力模糊",
+    "description": "看近或看遠變得不清楚。"
+  },
+  {
+    "id": "dry-eyes",
+    "bodyPartId": "eyes",
+    "slug": "dry-eyes",
+    "name": "眼睛乾澀",
+    "description": "眼睛乾、刺、異物感或容易疲勞。"
+  },
+  {
+    "id": "floaters",
+    "bodyPartId": "eyes",
+    "slug": "floaters",
+    "name": "飛蚊症",
+    "description": "視野中出現飄動黑點或線條。"
+  },
+  {
+    "id": "ear-pain",
+    "bodyPartId": "ears",
+    "slug": "ear-pain",
+    "name": "耳痛",
+    "description": "耳內或耳周疼痛。"
+  },
+  {
+    "id": "tinnitus",
+    "bodyPartId": "ears",
+    "slug": "tinnitus",
+    "name": "耳鳴",
+    "description": "聽到嗡嗡聲、尖聲或其他不存在的聲音。"
+  },
+  {
+    "id": "hearing-loss",
+    "bodyPartId": "ears",
+    "slug": "hearing-loss",
+    "name": "聽力下降",
+    "description": "聲音變小、聽不清楚或單側聽力變差。"
+  },
+  {
+    "id": "ear-fullness",
+    "bodyPartId": "ears",
+    "slug": "ear-fullness",
+    "name": "耳朵悶塞",
+    "description": "耳朵像被塞住或有壓力感。"
+  },
+  {
+    "id": "vertigo",
+    "bodyPartId": "ears",
+    "slug": "vertigo",
+    "name": "眩暈",
+    "description": "感覺天旋地轉、平衡失調或伴隨噁心。"
+  },
+  {
+    "id": "nasal-congestion",
+    "bodyPartId": "nose",
+    "slug": "nasal-congestion",
+    "name": "鼻塞",
+    "description": "鼻子不通、呼吸不順或夜間加重。"
+  },
+  {
+    "id": "runny-nose",
+    "bodyPartId": "nose",
+    "slug": "runny-nose",
+    "name": "流鼻水",
+    "description": "清水鼻涕或濃稠鼻涕增加。"
+  },
+  {
+    "id": "nosebleed",
+    "bodyPartId": "nose",
+    "slug": "nosebleed",
+    "name": "鼻血",
+    "description": "單側或雙側鼻出血。"
+  },
+  {
+    "id": "sinus-pain",
+    "bodyPartId": "nose",
+    "slug": "sinus-pain",
+    "name": "鼻竇痛",
+    "description": "臉頰、額頭或鼻樑周圍脹痛。"
+  },
+  {
+    "id": "smell-loss",
+    "bodyPartId": "nose",
+    "slug": "smell-loss",
+    "name": "嗅覺異常",
+    "description": "聞不到味道、嗅覺變差或味道感受改變。"
+  },
+  {
+    "id": "sore-throat",
+    "bodyPartId": "throat",
+    "slug": "sore-throat",
+    "name": "喉嚨痛",
+    "description": "吞嚥時疼痛、乾癢或灼熱。"
+  },
+  {
+    "id": "difficulty-swallowing",
+    "bodyPartId": "throat",
+    "slug": "difficulty-swallowing",
+    "name": "吞嚥困難",
+    "description": "吞東西卡卡、疼痛或容易嗆到。"
+  },
+  {
+    "id": "hoarseness",
+    "bodyPartId": "throat",
+    "slug": "hoarseness",
+    "name": "聲音沙啞",
+    "description": "聲音變粗、變小或說話費力。"
+  },
+  {
+    "id": "throat-lump",
+    "bodyPartId": "throat",
+    "slug": "throat-lump",
+    "name": "喉嚨異物感",
+    "description": "喉嚨像有東西卡住，但不一定真的有異物。"
+  },
+  {
+    "id": "chronic-cough",
+    "bodyPartId": "throat",
+    "slug": "chronic-cough",
+    "name": "慢性咳嗽",
+    "description": "咳嗽持續數週，可能乾咳或有痰。"
+  },
+  {
+    "id": "chest-pain",
+    "bodyPartId": "chest",
+    "slug": "chest-pain",
+    "name": "胸痛",
+    "description": "胸口悶痛、刺痛、壓迫或灼熱感。"
+  },
+  {
+    "id": "chest-tightness",
+    "bodyPartId": "chest",
+    "slug": "chest-tightness",
+    "name": "胸悶",
+    "description": "胸口壓迫、緊繃或不舒服。"
+  },
+  {
+    "id": "palpitations",
+    "bodyPartId": "chest",
+    "slug": "palpitations",
+    "name": "心悸",
+    "description": "心跳很快、很重、不規則或漏拍感。"
+  },
+  {
+    "id": "shortness-of-breath",
+    "bodyPartId": "chest",
+    "slug": "shortness-of-breath",
+    "name": "呼吸不順",
+    "description": "呼吸費力、吸不到氣或活動後喘。"
+  },
+  {
+    "id": "cough",
+    "bodyPartId": "chest",
+    "slug": "cough",
+    "name": "咳嗽",
+    "description": "乾咳、有痰咳嗽或胸口伴隨不適。"
+  },
+  {
+    "id": "stomach-pain",
+    "bodyPartId": "abdomen",
+    "slug": "stomach-pain",
+    "name": "胃痛",
+    "description": "上腹部悶痛、灼熱、絞痛或飯後不適。"
+  },
+  {
+    "id": "bloating",
+    "bodyPartId": "abdomen",
+    "slug": "bloating",
+    "name": "腹脹",
+    "description": "肚子脹、打嗝、放屁或飯後更明顯。"
+  },
+  {
+    "id": "diarrhea",
+    "bodyPartId": "abdomen",
+    "slug": "diarrhea",
+    "name": "腹瀉",
+    "description": "排便次數增加或水便。"
+  },
+  {
+    "id": "constipation",
+    "bodyPartId": "abdomen",
+    "slug": "constipation",
+    "name": "便秘",
+    "description": "排便困難、次數變少或糞便偏硬。"
+  },
+  {
+    "id": "nausea-vomiting",
+    "bodyPartId": "abdomen",
+    "slug": "nausea-vomiting",
+    "name": "噁心嘔吐",
+    "description": "想吐、反胃或已經嘔吐。"
+  },
+  {
+    "id": "lower-back-pain",
+    "bodyPartId": "back",
+    "slug": "lower-back-pain",
+    "name": "下背痛",
+    "description": "下背或腰部疼痛，可能影響活動。"
+  },
+  {
+    "id": "upper-back-pain",
+    "bodyPartId": "back",
+    "slug": "upper-back-pain",
+    "name": "上背痛",
+    "description": "上背、肩頸下方或肩胛附近疼痛。"
+  },
+  {
+    "id": "shoulder-blade-pain",
+    "bodyPartId": "back",
+    "slug": "shoulder-blade-pain",
+    "name": "肩胛痠痛",
+    "description": "肩胛骨周圍痠痛、緊繃或活動不適。"
+  },
+  {
+    "id": "back-stiffness",
+    "bodyPartId": "back",
+    "slug": "back-stiffness",
+    "name": "背部僵硬",
+    "description": "早晨或久坐後背部緊繃活動不開。"
+  },
+  {
+    "id": "back-pain-numbness",
+    "bodyPartId": "back",
+    "slug": "back-pain-numbness",
+    "name": "背痛伴麻木",
+    "description": "背痛合併手腳麻、刺痛或無力。"
+  },
+  {
+    "id": "knee-pain",
+    "bodyPartId": "joints",
+    "slug": "knee-pain",
+    "name": "膝蓋痛",
+    "description": "走路、上下樓或蹲站時膝蓋疼痛。"
+  },
+  {
+    "id": "wrist-pain",
+    "bodyPartId": "joints",
+    "slug": "wrist-pain",
+    "name": "手腕痛",
+    "description": "手腕疼痛、用力或轉動時不舒服。"
+  },
+  {
+    "id": "ankle-pain",
+    "bodyPartId": "joints",
+    "slug": "ankle-pain",
+    "name": "腳踝痛",
+    "description": "腳踝疼痛、腫脹或走路承重不適。"
+  },
+  {
+    "id": "joint-swelling",
+    "bodyPartId": "joints",
+    "slug": "joint-swelling",
+    "name": "關節腫脹",
+    "description": "關節變腫、發熱或壓痛。"
+  },
+  {
+    "id": "joint-clicking",
+    "bodyPartId": "joints",
+    "slug": "joint-clicking",
+    "name": "關節卡卡",
+    "description": "關節活動時卡住、摩擦聲或活動不順。"
+  },
+  {
+    "id": "rash",
+    "bodyPartId": "skin",
+    "slug": "rash",
+    "name": "紅疹",
+    "description": "皮膚出現紅斑、丘疹或大片泛紅。"
+  },
+  {
+    "id": "itching",
+    "bodyPartId": "skin",
+    "slug": "itching",
+    "name": "搔癢",
+    "description": "局部或全身搔癢，可能反覆發作。"
+  },
+  {
+    "id": "blisters",
+    "bodyPartId": "skin",
+    "slug": "blisters",
+    "name": "起水泡",
+    "description": "皮膚出現含液體的小泡或大片水泡。"
+  },
+  {
+    "id": "acne",
+    "bodyPartId": "skin",
+    "slug": "acne",
+    "name": "長痘痘",
+    "description": "粉刺、丘疹、膿皰或反覆發炎痘痘。"
+  },
+  {
+    "id": "unknown-lump",
+    "bodyPartId": "skin",
+    "slug": "unknown-lump",
+    "name": "不明腫塊",
+    "description": "皮下摸到硬塊、囊腫或不明突起。"
+  },
+  {
+    "id": "frequent-urination",
+    "bodyPartId": "urinary",
+    "slug": "frequent-urination",
+    "name": "頻尿",
+    "description": "排尿次數明顯增加，可能白天或夜間都頻繁。"
+  },
+  {
+    "id": "painful-urination",
+    "bodyPartId": "urinary",
+    "slug": "painful-urination",
+    "name": "排尿疼痛",
+    "description": "排尿時灼熱、刺痛或尿道不適。"
+  },
+  {
+    "id": "blood-in-urine",
+    "bodyPartId": "urinary",
+    "slug": "blood-in-urine",
+    "name": "血尿",
+    "description": "尿液呈紅色、茶色，或檢查發現尿中有血。"
+  },
+  {
+    "id": "urine-retention",
+    "bodyPartId": "urinary",
+    "slug": "urine-retention",
+    "name": "尿不出來",
+    "description": "有尿意但無法順利排尿，或尿流明顯變弱。"
+  },
+  {
+    "id": "nocturia",
+    "bodyPartId": "urinary",
+    "slug": "nocturia",
+    "name": "夜尿",
+    "description": "夜間因排尿醒來多次，影響睡眠。"
+  },
+  {
+    "id": "jaundice",
+    "bodyPartId": "liver",
+    "slug": "jaundice",
+    "name": "黃疸",
+    "description": "眼白或皮膚變黃，可能伴隨尿色變深。"
+  },
+  {
+    "id": "right-upper-abdominal-pain",
+    "bodyPartId": "liver",
+    "slug": "right-upper-abdominal-pain",
+    "name": "右上腹痛",
+    "description": "右上腹或肋骨下緣疼痛、脹痛或壓痛。"
+  },
+  {
+    "id": "loss-of-appetite",
+    "bodyPartId": "liver",
+    "slug": "loss-of-appetite",
+    "name": "食慾不振",
+    "description": "食量下降、容易噁心或看到食物沒有胃口。"
+  },
+  {
+    "id": "fatigue-liver",
+    "bodyPartId": "liver",
+    "slug": "fatigue-liver",
+    "name": "容易疲倦",
+    "description": "休息後仍覺得疲累，可能合併消化或肝膽相關不適。"
+  },
+  {
+    "id": "dark-urine",
+    "bodyPartId": "liver",
+    "slug": "dark-urine",
+    "name": "尿色變深",
+    "description": "尿液呈茶色或深褐色，補水後仍明顯偏深。"
+  },
+  {
+    "id": "unexplained-fatigue",
+    "bodyPartId": "blood",
+    "slug": "unexplained-fatigue",
+    "name": "不明原因疲倦",
+    "description": "沒有明顯原因的持續疲倦、虛弱或活動力下降。"
+  },
+  {
+    "id": "easy-bruising",
+    "bodyPartId": "blood",
+    "slug": "easy-bruising",
+    "name": "容易瘀青",
+    "description": "輕微碰撞就瘀青，或出現原因不明的瘀斑。"
+  },
+  {
+    "id": "unexplained-fever",
+    "bodyPartId": "blood",
+    "slug": "unexplained-fever",
+    "name": "不明發燒",
+    "description": "反覆或持續發燒，找不到明確感染來源。"
+  },
+  {
+    "id": "weight-loss",
+    "bodyPartId": "blood",
+    "slug": "weight-loss",
+    "name": "體重減輕",
+    "description": "沒有刻意減重卻在短期內明顯變瘦。"
+  },
+  {
+    "id": "night-sweats",
+    "bodyPartId": "blood",
+    "slug": "night-sweats",
+    "name": "夜間盜汗",
+    "description": "夜間大量出汗，甚至需要更換衣物或床單。"
+  },
+  {
+    "id": "irregular-heartbeat",
+    "bodyPartId": "heart",
+    "slug": "irregular-heartbeat",
+    "name": "心律不整",
+    "description": "心跳忽快忽慢、不規則或有漏拍感。"
+  },
+  {
+    "id": "exercise-intolerance",
+    "bodyPartId": "heart",
+    "slug": "exercise-intolerance",
+    "name": "運動耐受差",
+    "description": "比過去更容易喘、累，活動能力明顯下降。"
+  },
+  {
+    "id": "fainting",
+    "bodyPartId": "heart",
+    "slug": "fainting",
+    "name": "昏厥",
+    "description": "短暫失去意識或突然倒下，之後恢復。"
+  },
+  {
+    "id": "chest-pressure-exertion",
+    "bodyPartId": "heart",
+    "slug": "chest-pressure-exertion",
+    "name": "活動時胸壓感",
+    "description": "走路、爬樓梯或運動時胸口壓迫不適。"
+  },
+  {
+    "id": "edema",
+    "bodyPartId": "heart",
+    "slug": "edema",
+    "name": "下肢水腫",
+    "description": "腳踝、小腿腫脹，按壓後可能留下凹痕。"
+  },
+  {
+    "id": "speech-difficulty",
+    "bodyPartId": "neuro",
+    "slug": "speech-difficulty",
+    "name": "說話困難",
+    "description": "說話含糊、找不到詞、理解或表達變困難。"
+  },
+  {
+    "id": "one-side-weakness",
+    "bodyPartId": "neuro",
+    "slug": "one-side-weakness",
+    "name": "單側無力",
+    "description": "臉、手或腳單側無力、麻木或不聽使喚。"
+  },
+  {
+    "id": "memory-loss",
+    "bodyPartId": "neuro",
+    "slug": "memory-loss",
+    "name": "記憶力下降",
+    "description": "近期記憶變差、常忘事或影響日常功能。"
+  },
+  {
+    "id": "tremor",
+    "bodyPartId": "neuro",
+    "slug": "tremor",
+    "name": "手抖",
+    "description": "手部不自主顫抖，休息或動作時可能更明顯。"
+  },
+  {
+    "id": "seizure",
+    "bodyPartId": "neuro",
+    "slug": "seizure",
+    "name": "抽搐",
+    "description": "肢體不自主抽動、僵硬，可能合併意識改變。"
+  },
+  {
+    "id": "joint-deformity",
+    "bodyPartId": "ortho",
+    "slug": "joint-deformity",
+    "name": "關節變形",
+    "description": "關節外觀變形、歪斜或長期腫大。"
+  },
+  {
+    "id": "fracture-suspected",
+    "bodyPartId": "ortho",
+    "slug": "fracture-suspected",
+    "name": "疑似骨折",
+    "description": "外傷後劇痛、腫脹、變形或無法承重。"
+  },
+  {
+    "id": "limited-mobility",
+    "bodyPartId": "ortho",
+    "slug": "limited-mobility",
+    "name": "活動受限",
+    "description": "關節或肢體活動角度變小、卡住或無法正常使用。"
+  },
+  {
+    "id": "bone-pain",
+    "bodyPartId": "ortho",
+    "slug": "bone-pain",
+    "name": "骨頭痛",
+    "description": "深層骨骼疼痛，可能夜間或活動時加重。"
+  },
+  {
+    "id": "morning-stiffness",
+    "bodyPartId": "ortho",
+    "slug": "morning-stiffness",
+    "name": "晨僵",
+    "description": "起床後關節僵硬，需要一段時間才活動開。"
+  },
+  {
+    "id": "skin-infection",
+    "bodyPartId": "skin",
+    "slug": "skin-infection",
+    "name": "皮膚感染",
+    "description": "皮膚紅腫熱痛、化膿或傷口周圍發炎。"
+  },
+  {
+    "id": "eczema-flare",
+    "bodyPartId": "skin",
+    "slug": "eczema-flare",
+    "name": "濕疹惡化",
+    "description": "皮膚紅、癢、脫屑或滲液，反覆發作加劇。"
+  },
+  {
+    "id": "fungal-infection",
+    "bodyPartId": "skin",
+    "slug": "fungal-infection",
+    "name": "黴菌感染",
+    "description": "皮膚搔癢、脫屑、環狀紅斑或趾縫糜爛。"
+  },
+  {
+    "id": "hair-loss",
+    "bodyPartId": "skin",
+    "slug": "hair-loss",
+    "name": "掉髮",
+    "description": "掉髮量增加、髮量變稀或局部禿髮。"
+  },
+  {
+    "id": "skin-pigmentation",
+    "bodyPartId": "skin",
+    "slug": "skin-pigmentation",
+    "name": "色素異常",
+    "description": "皮膚顏色變深、變淡或出現不規則斑塊。"
+  }
+]

@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+import { SiteQrButton } from "@/components/ui/SiteQrButton";
 import { getBodyParts } from "@/lib/data";
 
 const markers: Record<string, { top: string; left: string }> = {
@@ -99,6 +100,7 @@ export default async function HomePage() {
           <h1>哪裡不舒服？</h1>
           <p>點選身體部位，快速找到建議掛號科別</p>
         </div>
+        <SiteQrButton />
       </div>
 
       <div className="home-body-layout">

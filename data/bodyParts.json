@@ -94,5 +94,41 @@
     "slug": "ortho",
     "name": "骨科",
     "imageKey": "ortho"
+  },
+  {
+    "id": "mental",
+    "slug": "mental",
+    "name": "身心",
+    "imageKey": "mental"
+  },
+  {
+    "id": "endocrine",
+    "slug": "endocrine",
+    "name": "內分泌",
+    "imageKey": "endocrine"
+  },
+  {
+    "id": "women",
+    "slug": "women",
+    "name": "婦科",
+    "imageKey": "women"
+  },
+  {
+    "id": "child",
+    "slug": "child",
+    "name": "兒科",
+    "imageKey": "child"
+  },
+  {
+    "id": "dental",
+    "slug": "dental",
+    "name": "牙口",
+    "imageKey": "dental"
+  },
+  {
+    "id": "infection",
+    "slug": "infection",
+    "name": "感染",
+    "imageKey": "infection"
   }
 ]

@@ -593,5 +593,985 @@
     "slug": "skin-pigmentation",
     "name": "色素異常",
     "description": "皮膚顏色變深、變淡或出現不規則斑塊。"
+  },
+  {
+    "id": "tension-headache",
+    "bodyPartId": "head",
+    "slug": "tension-headache",
+    "name": "緊縮型頭痛",
+    "description": "頭部像被束帶壓迫，常和壓力、姿勢或睡眠不足有關。"
+  },
+  {
+    "id": "cluster-headache",
+    "bodyPartId": "head",
+    "slug": "cluster-headache",
+    "name": "叢發性頭痛",
+    "description": "單側眼眶或太陽穴劇痛，可能伴隨流淚或鼻塞。"
+  },
+  {
+    "id": "facial-pain",
+    "bodyPartId": "head",
+    "slug": "facial-pain",
+    "name": "臉部疼痛",
+    "description": "臉頰、下巴或眼周疼痛，可能和神經、牙齒或鼻竇相關。"
+  },
+  {
+    "id": "jaw-pain",
+    "bodyPartId": "head",
+    "slug": "jaw-pain",
+    "name": "下巴痛",
+    "description": "下巴關節或咀嚼肌疼痛，可能張口受限或咬合不適。"
+  },
+  {
+    "id": "head-pressure",
+    "bodyPartId": "head",
+    "slug": "head-pressure",
+    "name": "頭部壓迫感",
+    "description": "頭部沉重、壓迫或緊繃感，可能與壓力、鼻竇或血壓相關。"
+  },
+  {
+    "id": "photophobia",
+    "bodyPartId": "eyes",
+    "slug": "photophobia",
+    "name": "畏光",
+    "description": "光線下眼睛不適、刺痛或想閉眼。"
+  },
+  {
+    "id": "double-vision",
+    "bodyPartId": "eyes",
+    "slug": "double-vision",
+    "name": "複視",
+    "description": "看東西出現重影，可能單眼或雙眼發生。"
+  },
+  {
+    "id": "eye-discharge",
+    "bodyPartId": "eyes",
+    "slug": "eye-discharge",
+    "name": "眼睛分泌物",
+    "description": "眼屎增多、黏稠分泌物或醒來眼皮黏住。"
+  },
+  {
+    "id": "eyelid-swelling",
+    "bodyPartId": "eyes",
+    "slug": "eyelid-swelling",
+    "name": "眼皮腫",
+    "description": "眼皮局部或整片腫脹，可能疼痛、紅或癢。"
+  },
+  {
+    "id": "visual-field-loss",
+    "bodyPartId": "eyes",
+    "slug": "visual-field-loss",
+    "name": "視野缺損",
+    "description": "視野某一區塊看不到、黑影遮住或像布幕。"
+  },
+  {
+    "id": "itchy-ear",
+    "bodyPartId": "ears",
+    "slug": "itchy-ear",
+    "name": "耳朵癢",
+    "description": "耳道搔癢、乾屑或反覆想挖耳朵。"
+  },
+  {
+    "id": "blocked-ear-wax",
+    "bodyPartId": "ears",
+    "slug": "blocked-ear-wax",
+    "name": "耳垢堵塞",
+    "description": "耳悶、聽力變差或耳內有塞住感。"
+  },
+  {
+    "id": "balance-problem",
+    "bodyPartId": "ears",
+    "slug": "balance-problem",
+    "name": "平衡不穩",
+    "description": "走路不穩、容易偏斜或失去平衡。"
+  },
+  {
+    "id": "ear-pressure-flight",
+    "bodyPartId": "ears",
+    "slug": "ear-pressure-flight",
+    "name": "搭飛機耳壓痛",
+    "description": "飛行、爬山或潛水後耳壓、耳痛或耳悶。"
+  },
+  {
+    "id": "outer-ear-swelling",
+    "bodyPartId": "ears",
+    "slug": "outer-ear-swelling",
+    "name": "外耳腫痛",
+    "description": "耳廓或耳道外側紅腫、疼痛或觸碰痛。"
+  },
+  {
+    "id": "sneezing",
+    "bodyPartId": "nose",
+    "slug": "sneezing",
+    "name": "打噴嚏",
+    "description": "反覆打噴嚏，可能伴隨鼻癢或流鼻水。"
+  },
+  {
+    "id": "postnasal-drip",
+    "bodyPartId": "nose",
+    "slug": "postnasal-drip",
+    "name": "鼻涕倒流",
+    "description": "喉嚨常有鼻涕流下、清喉嚨或咳嗽。"
+  },
+  {
+    "id": "nasal-itching",
+    "bodyPartId": "nose",
+    "slug": "nasal-itching",
+    "name": "鼻子癢",
+    "description": "鼻內搔癢，常伴隨過敏、打噴嚏或流鼻水。"
+  },
+  {
+    "id": "facial-fullness",
+    "bodyPartId": "nose",
+    "slug": "facial-fullness",
+    "name": "臉部悶脹",
+    "description": "臉頰或額頭悶脹壓迫，可能與鼻竇相關。"
+  },
+  {
+    "id": "nasal-polyp-suspected",
+    "bodyPartId": "nose",
+    "slug": "nasal-polyp-suspected",
+    "name": "疑似鼻息肉",
+    "description": "長期鼻塞、嗅覺下降或鼻腔有阻塞感。"
+  },
+  {
+    "id": "tonsil-swelling",
+    "bodyPartId": "throat",
+    "slug": "tonsil-swelling",
+    "name": "扁桃腺腫",
+    "description": "喉嚨兩側腫痛，可能有白點、發燒或吞嚥痛。"
+  },
+  {
+    "id": "loss-of-voice",
+    "bodyPartId": "throat",
+    "slug": "loss-of-voice",
+    "name": "失聲",
+    "description": "聲音突然變小、沙啞到幾乎說不出話。"
+  },
+  {
+    "id": "throat-dryness",
+    "bodyPartId": "throat",
+    "slug": "throat-dryness",
+    "name": "喉嚨乾",
+    "description": "喉嚨乾澀、乾癢或常想喝水清喉嚨。"
+  },
+  {
+    "id": "bad-breath",
+    "bodyPartId": "throat",
+    "slug": "bad-breath",
+    "name": "口臭",
+    "description": "口腔或喉嚨異味，刷牙後仍反覆出現。"
+  },
+  {
+    "id": "choking-easily",
+    "bodyPartId": "throat",
+    "slug": "choking-easily",
+    "name": "容易嗆到",
+    "description": "喝水或吃東西容易嗆咳，可能吞嚥協調變差。"
+  },
+  {
+    "id": "breathing-pain",
+    "bodyPartId": "chest",
+    "slug": "breathing-pain",
+    "name": "呼吸時胸痛",
+    "description": "深呼吸、咳嗽或活動時胸口疼痛。"
+  },
+  {
+    "id": "cough-blood",
+    "bodyPartId": "chest",
+    "slug": "cough-blood",
+    "name": "咳血",
+    "description": "咳嗽時有血絲或血塊。"
+  },
+  {
+    "id": "phlegm",
+    "bodyPartId": "chest",
+    "slug": "phlegm",
+    "name": "痰多",
+    "description": "喉嚨或胸口痰液增加，可能黃綠或濃稠。"
+  },
+  {
+    "id": "snoring",
+    "bodyPartId": "chest",
+    "slug": "snoring",
+    "name": "打呼",
+    "description": "睡覺打呼，可能合併白天嗜睡或睡眠中斷。"
+  },
+  {
+    "id": "sleep-apnea-suspected",
+    "bodyPartId": "chest",
+    "slug": "sleep-apnea-suspected",
+    "name": "疑似睡眠呼吸中止",
+    "description": "睡眠中呼吸暫停、打呼很大聲或白天疲倦。"
+  },
+  {
+    "id": "acid-reflux",
+    "bodyPartId": "abdomen",
+    "slug": "acid-reflux",
+    "name": "胃酸逆流",
+    "description": "胸口灼熱、酸水上來或飯後躺下加重。"
+  },
+  {
+    "id": "black-stool",
+    "bodyPartId": "abdomen",
+    "slug": "black-stool",
+    "name": "黑便",
+    "description": "大便呈黑色柏油狀，可能有腸胃道出血。"
+  },
+  {
+    "id": "blood-in-stool",
+    "bodyPartId": "abdomen",
+    "slug": "blood-in-stool",
+    "name": "血便",
+    "description": "糞便帶血、鮮紅血或暗紅色血。"
+  },
+  {
+    "id": "abdominal-cramps",
+    "bodyPartId": "abdomen",
+    "slug": "abdominal-cramps",
+    "name": "腹部絞痛",
+    "description": "肚子一陣一陣抽痛或絞痛。"
+  },
+  {
+    "id": "loss-weight-digestive",
+    "bodyPartId": "abdomen",
+    "slug": "loss-weight-digestive",
+    "name": "消化不良合併體重下降",
+    "description": "胃口差、消化不良且體重明顯下降。"
+  },
+  {
+    "id": "neck-pain",
+    "bodyPartId": "back",
+    "slug": "neck-pain",
+    "name": "脖子痛",
+    "description": "頸部疼痛、僵硬或轉頭不適。"
+  },
+  {
+    "id": "tailbone-pain",
+    "bodyPartId": "back",
+    "slug": "tailbone-pain",
+    "name": "尾椎痛",
+    "description": "坐下或起身時尾椎附近疼痛。"
+  },
+  {
+    "id": "spine-pain",
+    "bodyPartId": "back",
+    "slug": "spine-pain",
+    "name": "脊椎痛",
+    "description": "背部正中央或脊椎沿線疼痛。"
+  },
+  {
+    "id": "muscle-spasm-back",
+    "bodyPartId": "back",
+    "slug": "muscle-spasm-back",
+    "name": "背部抽筋",
+    "description": "背部肌肉突然緊縮、抽痛或痙攣。"
+  },
+  {
+    "id": "posture-back-pain",
+    "bodyPartId": "back",
+    "slug": "posture-back-pain",
+    "name": "久坐背痛",
+    "description": "久坐後背部痠痛、僵硬或姿勢相關疼痛。"
+  },
+  {
+    "id": "hip-pain",
+    "bodyPartId": "joints",
+    "slug": "hip-pain",
+    "name": "髖關節痛",
+    "description": "鼠蹊部、臀部或髖部疼痛，走路可能加重。"
+  },
+  {
+    "id": "finger-joint-pain",
+    "bodyPartId": "joints",
+    "slug": "finger-joint-pain",
+    "name": "手指關節痛",
+    "description": "手指關節疼痛、腫脹或僵硬。"
+  },
+  {
+    "id": "elbow-pain",
+    "bodyPartId": "joints",
+    "slug": "elbow-pain",
+    "name": "手肘痛",
+    "description": "手肘疼痛，可能握物或旋轉前臂時加重。"
+  },
+  {
+    "id": "gout-attack",
+    "bodyPartId": "joints",
+    "slug": "gout-attack",
+    "name": "疑似痛風發作",
+    "description": "關節突然紅腫熱痛，常見於大腳趾或腳踝。"
+  },
+  {
+    "id": "joint-redness-heat",
+    "bodyPartId": "joints",
+    "slug": "joint-redness-heat",
+    "name": "關節紅熱",
+    "description": "關節紅、熱、腫且疼痛。"
+  },
+  {
+    "id": "mole-change",
+    "bodyPartId": "skin",
+    "slug": "mole-change",
+    "name": "痣變大變色",
+    "description": "痣快速變大、顏色改變或邊緣不規則。"
+  },
+  {
+    "id": "dry-skin",
+    "bodyPartId": "skin",
+    "slug": "dry-skin",
+    "name": "皮膚乾裂",
+    "description": "皮膚乾燥、脫屑、裂開或疼痛。"
+  },
+  {
+    "id": "burn",
+    "bodyPartId": "skin",
+    "slug": "burn",
+    "name": "燙傷",
+    "description": "皮膚被熱水、火或化學物灼傷。"
+  },
+  {
+    "id": "pressure-sore",
+    "bodyPartId": "skin",
+    "slug": "pressure-sore",
+    "name": "壓瘡",
+    "description": "長期受壓部位皮膚破損、發紅或潰瘍。"
+  },
+  {
+    "id": "excessive-sweating",
+    "bodyPartId": "skin",
+    "slug": "excessive-sweating",
+    "name": "多汗",
+    "description": "手汗、腋下或全身出汗明顯增加。"
+  },
+  {
+    "id": "urinary-incontinence",
+    "bodyPartId": "urinary",
+    "slug": "urinary-incontinence",
+    "name": "漏尿",
+    "description": "咳嗽、運動或尿急時不自主漏尿。"
+  },
+  {
+    "id": "foamy-urine",
+    "bodyPartId": "urinary",
+    "slug": "foamy-urine",
+    "name": "泡泡尿",
+    "description": "尿液泡沫多且久不消散，可能與蛋白尿相關。"
+  },
+  {
+    "id": "flank-pain",
+    "bodyPartId": "urinary",
+    "slug": "flank-pain",
+    "name": "腰側痛",
+    "description": "腰部側邊疼痛，可能延伸到下腹或鼠蹊部。"
+  },
+  {
+    "id": "cloudy-urine",
+    "bodyPartId": "urinary",
+    "slug": "cloudy-urine",
+    "name": "尿液混濁",
+    "description": "尿液混濁、異味或沉澱增加。"
+  },
+  {
+    "id": "genital-pain",
+    "bodyPartId": "urinary",
+    "slug": "genital-pain",
+    "name": "生殖器疼痛",
+    "description": "外陰、陰莖、陰囊或會陰疼痛。"
+  },
+  {
+    "id": "ascites-suspected",
+    "bodyPartId": "liver",
+    "slug": "ascites-suspected",
+    "name": "疑似腹水",
+    "description": "腹部逐漸脹大、腹圍增加或下肢水腫。"
+  },
+  {
+    "id": "itching-liver",
+    "bodyPartId": "liver",
+    "slug": "itching-liver",
+    "name": "黃疸合併皮膚癢",
+    "description": "皮膚搔癢合併眼白變黃或尿色變深。"
+  },
+  {
+    "id": "pale-stool",
+    "bodyPartId": "liver",
+    "slug": "pale-stool",
+    "name": "糞便變白",
+    "description": "糞便顏色變淡、灰白或陶土色。"
+  },
+  {
+    "id": "abnormal-liver-test",
+    "bodyPartId": "liver",
+    "slug": "abnormal-liver-test",
+    "name": "肝功能異常",
+    "description": "健檢或抽血發現肝指數升高。"
+  },
+  {
+    "id": "easy-bleeding-liver",
+    "bodyPartId": "liver",
+    "slug": "easy-bleeding-liver",
+    "name": "容易出血合併肝病",
+    "description": "刷牙流血、瘀青增加且有肝病或黃疸。"
+  },
+  {
+    "id": "pale-face",
+    "bodyPartId": "blood",
+    "slug": "pale-face",
+    "name": "臉色蒼白",
+    "description": "臉色、嘴唇或指甲偏白，可能合併疲倦或喘。"
+  },
+  {
+    "id": "gum-bleeding",
+    "bodyPartId": "blood",
+    "slug": "gum-bleeding",
+    "name": "牙齦容易流血",
+    "description": "刷牙或輕碰牙齦就流血。"
+  },
+  {
+    "id": "swollen-lymph-nodes",
+    "bodyPartId": "blood",
+    "slug": "swollen-lymph-nodes",
+    "name": "淋巴結腫大",
+    "description": "頸部、腋下或鼠蹊部摸到腫塊。"
+  },
+  {
+    "id": "anemia-suspected",
+    "bodyPartId": "blood",
+    "slug": "anemia-suspected",
+    "name": "疑似貧血",
+    "description": "容易疲倦、頭暈、心悸或臉色蒼白。"
+  },
+  {
+    "id": "prolonged-bleeding",
+    "bodyPartId": "blood",
+    "slug": "prolonged-bleeding",
+    "name": "傷口流血不止",
+    "description": "小傷口流血時間明顯變長。"
+  },
+  {
+    "id": "orthopnea",
+    "bodyPartId": "heart",
+    "slug": "orthopnea",
+    "name": "躺下會喘",
+    "description": "躺平時呼吸困難，需要墊高枕頭。"
+  },
+  {
+    "id": "cold-sweat-chest",
+    "bodyPartId": "heart",
+    "slug": "cold-sweat-chest",
+    "name": "冒冷汗合併胸悶",
+    "description": "胸悶或胸痛時冒冷汗、噁心或虛弱。"
+  },
+  {
+    "id": "slow-heartbeat",
+    "bodyPartId": "heart",
+    "slug": "slow-heartbeat",
+    "name": "心跳過慢",
+    "description": "心跳明顯偏慢，可能頭暈、疲倦或昏厥。"
+  },
+  {
+    "id": "fast-heartbeat",
+    "bodyPartId": "heart",
+    "slug": "fast-heartbeat",
+    "name": "心跳過快",
+    "description": "安靜時心跳很快或突然快速跳動。"
+  },
+  {
+    "id": "blue-lips",
+    "bodyPartId": "heart",
+    "slug": "blue-lips",
+    "name": "嘴唇發紫",
+    "description": "嘴唇或指尖偏紫，可能代表缺氧或循環問題。"
+  },
+  {
+    "id": "numbness",
+    "bodyPartId": "neuro",
+    "slug": "numbness",
+    "name": "麻木感",
+    "description": "手腳、臉部或局部皮膚麻木、刺刺的。"
+  },
+  {
+    "id": "burning-nerve-pain",
+    "bodyPartId": "neuro",
+    "slug": "burning-nerve-pain",
+    "name": "灼熱神經痛",
+    "description": "皮膚或肢體灼熱、電擊或刺痛感。"
+  },
+  {
+    "id": "gait-instability",
+    "bodyPartId": "neuro",
+    "slug": "gait-instability",
+    "name": "走路不穩",
+    "description": "步態不穩、容易跌倒或走路偏斜。"
+  },
+  {
+    "id": "confusion",
+    "bodyPartId": "neuro",
+    "slug": "confusion",
+    "name": "意識混亂",
+    "description": "突然搞不清楚時間地點、反應變慢或行為異常。"
+  },
+  {
+    "id": "facial-droop",
+    "bodyPartId": "neuro",
+    "slug": "facial-droop",
+    "name": "臉歪",
+    "description": "臉部一側下垂、笑起來不對稱或口水流出。"
+  },
+  {
+    "id": "sprain",
+    "bodyPartId": "ortho",
+    "slug": "sprain",
+    "name": "扭傷",
+    "description": "關節扭到後疼痛、腫脹或活動不適。"
+  },
+  {
+    "id": "tendon-pain",
+    "bodyPartId": "ortho",
+    "slug": "tendon-pain",
+    "name": "肌腱痛",
+    "description": "用力、伸展或反覆動作時肌腱附近疼痛。"
+  },
+  {
+    "id": "muscle-strain",
+    "bodyPartId": "ortho",
+    "slug": "muscle-strain",
+    "name": "肌肉拉傷",
+    "description": "運動或搬重物後肌肉疼痛、緊繃或無力。"
+  },
+  {
+    "id": "heel-pain",
+    "bodyPartId": "ortho",
+    "slug": "heel-pain",
+    "name": "腳跟痛",
+    "description": "站立或走路時腳跟疼痛，早上下床可能明顯。"
+  },
+  {
+    "id": "flatfoot-pain",
+    "bodyPartId": "ortho",
+    "slug": "flatfoot-pain",
+    "name": "扁平足疼痛",
+    "description": "足弓塌陷伴隨足底、腳踝或膝蓋疼痛。"
+  },
+  {
+    "id": "anxiety",
+    "bodyPartId": "mental",
+    "slug": "anxiety",
+    "name": "焦慮",
+    "description": "過度擔心、緊張、坐立難安或心跳加快。"
+  },
+  {
+    "id": "panic-attack",
+    "bodyPartId": "mental",
+    "slug": "panic-attack",
+    "name": "恐慌發作",
+    "description": "突然強烈恐懼、心悸、喘不過氣或快要失控感。"
+  },
+  {
+    "id": "insomnia",
+    "bodyPartId": "mental",
+    "slug": "insomnia",
+    "name": "失眠",
+    "description": "入睡困難、淺眠、早醒或睡醒仍疲倦。"
+  },
+  {
+    "id": "depressed-mood",
+    "bodyPartId": "mental",
+    "slug": "depressed-mood",
+    "name": "情緒低落",
+    "description": "持續心情低落、興趣下降或無力感。"
+  },
+  {
+    "id": "poor-concentration",
+    "bodyPartId": "mental",
+    "slug": "poor-concentration",
+    "name": "注意力不集中",
+    "description": "難以專注、容易分心或工作學習效率下降。"
+  },
+  {
+    "id": "irritability",
+    "bodyPartId": "mental",
+    "slug": "irritability",
+    "name": "易怒",
+    "description": "情緒容易爆發、煩躁或控制困難。"
+  },
+  {
+    "id": "low-energy-mental",
+    "bodyPartId": "mental",
+    "slug": "low-energy-mental",
+    "name": "提不起勁",
+    "description": "長期缺乏動力、疲倦或對事情沒興趣。"
+  },
+  {
+    "id": "stress-symptoms",
+    "bodyPartId": "mental",
+    "slug": "stress-symptoms",
+    "name": "壓力大身體不適",
+    "description": "壓力下出現頭痛、胸悶、胃痛或失眠。"
+  },
+  {
+    "id": "sleepiness-daytime",
+    "bodyPartId": "mental",
+    "slug": "sleepiness-daytime",
+    "name": "白天嗜睡",
+    "description": "白天容易睡著、精神不濟或注意力下降。"
+  },
+  {
+    "id": "health-anxiety",
+    "bodyPartId": "mental",
+    "slug": "health-anxiety",
+    "name": "過度擔心健康",
+    "description": "反覆擔心自己生病、頻繁查詢症狀或難以安心。"
+  },
+  {
+    "id": "excessive-thirst",
+    "bodyPartId": "endocrine",
+    "slug": "excessive-thirst",
+    "name": "異常口渴",
+    "description": "明顯口渴、喝很多水仍覺得渴。"
+  },
+  {
+    "id": "increased-appetite",
+    "bodyPartId": "endocrine",
+    "slug": "increased-appetite",
+    "name": "食量增加",
+    "description": "食量變大但體重可能下降或容易餓。"
+  },
+  {
+    "id": "heat-intolerance",
+    "bodyPartId": "endocrine",
+    "slug": "heat-intolerance",
+    "name": "怕熱",
+    "description": "比別人容易覺得熱、流汗多或心悸。"
+  },
+  {
+    "id": "cold-intolerance",
+    "bodyPartId": "endocrine",
+    "slug": "cold-intolerance",
+    "name": "怕冷",
+    "description": "比平常更怕冷、疲倦或體重增加。"
+  },
+  {
+    "id": "weight-gain",
+    "bodyPartId": "endocrine",
+    "slug": "weight-gain",
+    "name": "體重增加",
+    "description": "非刻意體重增加，可能合併水腫或疲倦。"
+  },
+  {
+    "id": "neck-thyroid-lump",
+    "bodyPartId": "endocrine",
+    "slug": "neck-thyroid-lump",
+    "name": "甲狀腺腫大",
+    "description": "脖子前方腫大、壓迫感或吞嚥不適。"
+  },
+  {
+    "id": "hand-tremor-thyroid",
+    "bodyPartId": "endocrine",
+    "slug": "hand-tremor-thyroid",
+    "name": "手抖合併心悸",
+    "description": "手抖、心跳快、怕熱或體重下降。"
+  },
+  {
+    "id": "low-blood-sugar-symptoms",
+    "bodyPartId": "endocrine",
+    "slug": "low-blood-sugar-symptoms",
+    "name": "低血糖症狀",
+    "description": "冒冷汗、手抖、心悸、飢餓或頭暈。"
+  },
+  {
+    "id": "menstrual-irregular-endocrine",
+    "bodyPartId": "endocrine",
+    "slug": "menstrual-irregular-endocrine",
+    "name": "月經不規則合併內分泌症狀",
+    "description": "月經亂合併痘痘、多毛、體重變化或怕冷怕熱。"
+  },
+  {
+    "id": "excessive-hair-growth",
+    "bodyPartId": "endocrine",
+    "slug": "excessive-hair-growth",
+    "name": "多毛",
+    "description": "臉部、胸腹或四肢毛髮明顯增加。"
+  },
+  {
+    "id": "menstrual-pain",
+    "bodyPartId": "women",
+    "slug": "menstrual-pain",
+    "name": "經痛",
+    "description": "月經來時下腹痛、腰痠或噁心。"
+  },
+  {
+    "id": "heavy-menstrual-bleeding",
+    "bodyPartId": "women",
+    "slug": "heavy-menstrual-bleeding",
+    "name": "月經量過多",
+    "description": "月經量明顯變多、血塊多或需要頻繁更換衛生用品。"
+  },
+  {
+    "id": "irregular-period",
+    "bodyPartId": "women",
+    "slug": "irregular-period",
+    "name": "月經不規則",
+    "description": "月經週期忽長忽短、停經或非預期出血。"
+  },
+  {
+    "id": "vaginal-discharge",
+    "bodyPartId": "women",
+    "slug": "vaginal-discharge",
+    "name": "陰道分泌物異常",
+    "description": "分泌物變多、異味、顏色改變或搔癢。"
+  },
+  {
+    "id": "pelvic-pain",
+    "bodyPartId": "women",
+    "slug": "pelvic-pain",
+    "name": "骨盆腔疼痛",
+    "description": "下腹或骨盆深處疼痛，可能和月經或感染相關。"
+  },
+  {
+    "id": "breast-lump",
+    "bodyPartId": "women",
+    "slug": "breast-lump",
+    "name": "乳房腫塊",
+    "description": "乳房摸到硬塊、局部變厚或形狀改變。"
+  },
+  {
+    "id": "breast-pain",
+    "bodyPartId": "women",
+    "slug": "breast-pain",
+    "name": "乳房疼痛",
+    "description": "乳房脹痛、刺痛或壓痛，可能與週期相關。"
+  },
+  {
+    "id": "pregnancy-nausea",
+    "bodyPartId": "women",
+    "slug": "pregnancy-nausea",
+    "name": "孕吐",
+    "description": "懷孕期間噁心、嘔吐或食慾下降。"
+  },
+  {
+    "id": "menopause-hot-flashes",
+    "bodyPartId": "women",
+    "slug": "menopause-hot-flashes",
+    "name": "更年期熱潮紅",
+    "description": "突然臉熱、流汗、心悸或睡眠受影響。"
+  },
+  {
+    "id": "painful-intercourse",
+    "bodyPartId": "women",
+    "slug": "painful-intercourse",
+    "name": "性交疼痛",
+    "description": "性行為時或之後疼痛、乾澀或下腹痛。"
+  },
+  {
+    "id": "child-fever",
+    "bodyPartId": "child",
+    "slug": "child-fever",
+    "name": "兒童發燒",
+    "description": "兒童體溫升高，可能伴隨咳嗽、流鼻水或活動力下降。"
+  },
+  {
+    "id": "child-cough",
+    "bodyPartId": "child",
+    "slug": "child-cough",
+    "name": "兒童咳嗽",
+    "description": "孩子咳嗽、夜咳或有痰。"
+  },
+  {
+    "id": "child-rash",
+    "bodyPartId": "child",
+    "slug": "child-rash",
+    "name": "兒童紅疹",
+    "description": "孩子皮膚紅疹、丘疹或發癢。"
+  },
+  {
+    "id": "child-vomiting",
+    "bodyPartId": "child",
+    "slug": "child-vomiting",
+    "name": "兒童嘔吐",
+    "description": "孩子反覆嘔吐、食慾下降或腹痛。"
+  },
+  {
+    "id": "child-diarrhea",
+    "bodyPartId": "child",
+    "slug": "child-diarrhea",
+    "name": "兒童腹瀉",
+    "description": "孩子水便、排便次數增加或肚子痛。"
+  },
+  {
+    "id": "child-ear-pain",
+    "bodyPartId": "child",
+    "slug": "child-ear-pain",
+    "name": "兒童耳痛",
+    "description": "孩子拉耳朵、哭鬧或說耳朵痛。"
+  },
+  {
+    "id": "child-wheezing",
+    "bodyPartId": "child",
+    "slug": "child-wheezing",
+    "name": "兒童喘鳴",
+    "description": "孩子呼吸有咻咻聲、咳嗽或活動喘。"
+  },
+  {
+    "id": "child-poor-appetite",
+    "bodyPartId": "child",
+    "slug": "child-poor-appetite",
+    "name": "兒童食慾差",
+    "description": "孩子食量下降、拒食或活動力變差。"
+  },
+  {
+    "id": "child-growth-concern",
+    "bodyPartId": "child",
+    "slug": "child-growth-concern",
+    "name": "兒童生長遲緩",
+    "description": "身高體重成長落後或曲線下降。"
+  },
+  {
+    "id": "child-development-delay",
+    "bodyPartId": "child",
+    "slug": "child-development-delay",
+    "name": "兒童發展遲緩",
+    "description": "語言、動作、社交或學習發展比同齡慢。"
+  },
+  {
+    "id": "toothache",
+    "bodyPartId": "dental",
+    "slug": "toothache",
+    "name": "牙痛",
+    "description": "牙齒疼痛，咬合、冷熱或甜食時加重。"
+  },
+  {
+    "id": "gum-swelling",
+    "bodyPartId": "dental",
+    "slug": "gum-swelling",
+    "name": "牙齦腫痛",
+    "description": "牙齦紅腫、疼痛或流膿。"
+  },
+  {
+    "id": "mouth-ulcer",
+    "bodyPartId": "dental",
+    "slug": "mouth-ulcer",
+    "name": "嘴破",
+    "description": "口腔潰瘍、疼痛或反覆破洞。"
+  },
+  {
+    "id": "jaw-clicking",
+    "bodyPartId": "dental",
+    "slug": "jaw-clicking",
+    "name": "顳顎關節喀喀聲",
+    "description": "張口或咀嚼時下巴關節有聲音、卡住或疼痛。"
+  },
+  {
+    "id": "sensitive-teeth",
+    "bodyPartId": "dental",
+    "slug": "sensitive-teeth",
+    "name": "牙齒敏感",
+    "description": "喝冷熱或刷牙時牙齒酸痛。"
+  },
+  {
+    "id": "loose-tooth",
+    "bodyPartId": "dental",
+    "slug": "loose-tooth",
+    "name": "牙齒鬆動",
+    "description": "牙齒晃動、咬合不穩或牙周不適。"
+  },
+  {
+    "id": "dry-mouth",
+    "bodyPartId": "dental",
+    "slug": "dry-mouth",
+    "name": "口乾",
+    "description": "口腔乾燥、唾液少或吞嚥說話不適。"
+  },
+  {
+    "id": "tongue-pain",
+    "bodyPartId": "dental",
+    "slug": "tongue-pain",
+    "name": "舌頭痛",
+    "description": "舌頭疼痛、灼熱、潰瘍或顏色改變。"
+  },
+  {
+    "id": "bleeding-after-dental",
+    "bodyPartId": "dental",
+    "slug": "bleeding-after-dental",
+    "name": "拔牙後流血不止",
+    "description": "拔牙或口腔處置後持續出血。"
+  },
+  {
+    "id": "bad-taste-mouth",
+    "bodyPartId": "dental",
+    "slug": "bad-taste-mouth",
+    "name": "口中異味",
+    "description": "口中苦味、金屬味或異味持續。"
+  },
+  {
+    "id": "fever",
+    "bodyPartId": "infection",
+    "slug": "fever",
+    "name": "發燒",
+    "description": "體溫升高，可能伴隨畏寒、痠痛或疲倦。"
+  },
+  {
+    "id": "chills",
+    "bodyPartId": "infection",
+    "slug": "chills",
+    "name": "畏寒發冷",
+    "description": "突然發冷、顫抖或覺得很冷。"
+  },
+  {
+    "id": "body-aches",
+    "bodyPartId": "infection",
+    "slug": "body-aches",
+    "name": "全身痠痛",
+    "description": "肌肉關節痠痛，常伴隨感染或疲勞。"
+  },
+  {
+    "id": "swollen-tonsils-fever",
+    "bodyPartId": "infection",
+    "slug": "swollen-tonsils-fever",
+    "name": "發燒合併喉嚨痛",
+    "description": "喉嚨痛伴隨發燒、吞嚥痛或扁桃腺腫。"
+  },
+  {
+    "id": "persistent-fever",
+    "bodyPartId": "infection",
+    "slug": "persistent-fever",
+    "name": "持續發燒",
+    "description": "發燒持續多日或反覆發作。"
+  },
+  {
+    "id": "recurrent-infection",
+    "bodyPartId": "infection",
+    "slug": "recurrent-infection",
+    "name": "反覆感染",
+    "description": "短時間內多次感冒、泌尿道或皮膚感染。"
+  },
+  {
+    "id": "travel-fever",
+    "bodyPartId": "infection",
+    "slug": "travel-fever",
+    "name": "旅遊後發燒",
+    "description": "出國或旅遊後出現發燒、腹瀉或皮疹。"
+  },
+  {
+    "id": "insect-bite-fever",
+    "bodyPartId": "infection",
+    "slug": "insect-bite-fever",
+    "name": "蚊蟲叮咬後發燒",
+    "description": "蚊蟲叮咬後出現發燒、紅腫或皮疹。"
+  },
+  {
+    "id": "wound-fever",
+    "bodyPartId": "infection",
+    "slug": "wound-fever",
+    "name": "傷口合併發燒",
+    "description": "傷口紅腫熱痛並出現發燒。"
+  },
+  {
+    "id": "covid-like-symptoms",
+    "bodyPartId": "infection",
+    "slug": "covid-like-symptoms",
+    "name": "類感冒症狀",
+    "description": "喉嚨痛、咳嗽、發燒、流鼻水或全身痠痛。"
   }
 ]

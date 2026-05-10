@@ -39,6 +39,11 @@ export default async function BodyPartPage({ params }: BodyPartPageProps) {
 
   return (
     <section className="page-shell">
+      <div className="top-page-actions">
+        <Button href="/" variant="primary" className="large-nav-button">
+          回首頁
+        </Button>
+      </div>
       <div className="page-heading">
         <p className="eyebrow">身體部位</p>
         <h1>{bodyPart.name}</h1>
@@ -46,7 +51,7 @@ export default async function BodyPartPage({ params }: BodyPartPageProps) {
       </div>
       <SymptomList symptoms={symptoms} />
       <div className="page-actions">
-        <Button href="/" variant="secondary">
+        <Button href="/" variant="primary" className="large-nav-button">
           回首頁
         </Button>
       </div>

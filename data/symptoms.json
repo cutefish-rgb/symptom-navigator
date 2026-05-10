@@ -1965,5 +1965,782 @@
     "slug": "salt-craving",
     "name": "特別想吃鹹",
     "description": "突然或長期很想吃鹹食，可能合併疲倦或頭暈。"
+  },
+  {
+    "id": "facial-numbness",
+    "bodyPartId": "face",
+    "slug": "facial-numbness",
+    "name": "臉部麻木",
+    "description": "臉部出現麻木、刺刺感或感覺變鈍。"
+  },
+  {
+    "id": "facial-swelling",
+    "bodyPartId": "face",
+    "slug": "facial-swelling",
+    "name": "臉部腫脹",
+    "description": "臉頰、眼周或下巴明顯腫起。"
+  },
+  {
+    "id": "cheek-pain",
+    "bodyPartId": "face",
+    "slug": "cheek-pain",
+    "name": "臉頰疼痛",
+    "description": "臉頰深處疼痛，可能與鼻竇、牙齒或神經相關。"
+  },
+  {
+    "id": "facial-rash",
+    "bodyPartId": "face",
+    "slug": "facial-rash",
+    "name": "臉部紅疹",
+    "description": "臉上出現紅疹、脫屑或刺癢。"
+  },
+  {
+    "id": "facial-twitching",
+    "bodyPartId": "face",
+    "slug": "facial-twitching",
+    "name": "臉部抽動",
+    "description": "眼皮、嘴角或臉部肌肉不自主跳動。"
+  },
+  {
+    "id": "neck-stiffness",
+    "bodyPartId": "neck",
+    "slug": "neck-stiffness",
+    "name": "脖子僵硬",
+    "description": "頸部轉動受限、僵硬或緊繃。"
+  },
+  {
+    "id": "neck-lump",
+    "bodyPartId": "neck",
+    "slug": "neck-lump",
+    "name": "頸部腫塊",
+    "description": "脖子摸到腫塊或硬塊。"
+  },
+  {
+    "id": "front-neck-pain",
+    "bodyPartId": "neck",
+    "slug": "front-neck-pain",
+    "name": "喉結附近疼痛",
+    "description": "前頸或喉結附近壓痛、吞嚥時痛。"
+  },
+  {
+    "id": "neck-numbness",
+    "bodyPartId": "neck",
+    "slug": "neck-numbness",
+    "name": "頸部麻木",
+    "description": "頸部或肩頸附近出現麻木刺痛。"
+  },
+  {
+    "id": "limited-neck-motion",
+    "bodyPartId": "neck",
+    "slug": "limited-neck-motion",
+    "name": "頸部轉不動",
+    "description": "脖子無法順利轉動或低頭仰頭困難。"
+  },
+  {
+    "id": "neck-swelling",
+    "bodyPartId": "neck",
+    "slug": "neck-swelling",
+    "name": "頸部腫脹",
+    "description": "頸部局部或整體腫脹。"
+  },
+  {
+    "id": "shoulder-pain",
+    "bodyPartId": "shoulders",
+    "slug": "shoulder-pain",
+    "name": "肩膀痛",
+    "description": "肩部痠痛、刺痛或抬手時疼痛。"
+  },
+  {
+    "id": "frozen-shoulder",
+    "bodyPartId": "shoulders",
+    "slug": "frozen-shoulder",
+    "name": "五十肩",
+    "description": "肩膀僵硬、抬高手臂或往後扣內衣困難。"
+  },
+  {
+    "id": "shoulder-weakness",
+    "bodyPartId": "shoulders",
+    "slug": "shoulder-weakness",
+    "name": "肩膀無力",
+    "description": "抬手、拿東西或舉高時明顯無力。"
+  },
+  {
+    "id": "shoulder-instability",
+    "bodyPartId": "shoulders",
+    "slug": "shoulder-instability",
+    "name": "肩關節不穩",
+    "description": "肩膀有滑出、鬆動或脫臼感。"
+  },
+  {
+    "id": "shoulder-swelling",
+    "bodyPartId": "shoulders",
+    "slug": "shoulder-swelling",
+    "name": "肩膀腫脹",
+    "description": "肩部局部腫起、發熱或壓痛。"
+  },
+  {
+    "id": "shoulder-clicking",
+    "bodyPartId": "shoulders",
+    "slug": "shoulder-clicking",
+    "name": "肩膀喀喀響",
+    "description": "肩膀活動時有聲響、卡住或摩擦感。"
+  },
+  {
+    "id": "shoulder-numbness",
+    "bodyPartId": "shoulders",
+    "slug": "shoulder-numbness",
+    "name": "肩膀麻木",
+    "description": "肩膀、上臂外側麻木或刺痛。"
+  },
+  {
+    "id": "shoulder-injury-pain",
+    "bodyPartId": "shoulders",
+    "slug": "shoulder-injury-pain",
+    "name": "肩膀受傷疼痛",
+    "description": "跌倒、拉傷或運動後肩部疼痛。"
+  },
+  {
+    "id": "arm-pain",
+    "bodyPartId": "arms",
+    "slug": "arm-pain",
+    "name": "手臂痛",
+    "description": "上臂、前臂或手肘附近疼痛。"
+  },
+  {
+    "id": "arm-numbness",
+    "bodyPartId": "arms",
+    "slug": "arm-numbness",
+    "name": "手臂麻木",
+    "description": "手臂刺麻、感覺變鈍或像電流感。"
+  },
+  {
+    "id": "arm-weakness",
+    "bodyPartId": "arms",
+    "slug": "arm-weakness",
+    "name": "手臂無力",
+    "description": "手臂抬不起來、握力下降或容易掉東西。"
+  },
+  {
+    "id": "forearm-pain",
+    "bodyPartId": "arms",
+    "slug": "forearm-pain",
+    "name": "前臂疼痛",
+    "description": "前臂痠痛、緊繃或用力時疼痛。"
+  },
+  {
+    "id": "arm-swelling",
+    "bodyPartId": "arms",
+    "slug": "arm-swelling",
+    "name": "手臂腫脹",
+    "description": "手臂局部或整隻腫起。"
+  },
+  {
+    "id": "arm-tingling",
+    "bodyPartId": "arms",
+    "slug": "arm-tingling",
+    "name": "手臂刺麻",
+    "description": "手臂有針刺感、電流感或麻麻的。"
+  },
+  {
+    "id": "upper-arm-pain",
+    "bodyPartId": "arms",
+    "slug": "upper-arm-pain",
+    "name": "上臂疼痛",
+    "description": "肩到手肘之間疼痛或痠痛。"
+  },
+  {
+    "id": "hand-numbness",
+    "bodyPartId": "hands",
+    "slug": "hand-numbness",
+    "name": "手麻",
+    "description": "手掌或手指麻木、刺痛。"
+  },
+  {
+    "id": "finger-pain",
+    "bodyPartId": "hands",
+    "slug": "finger-pain",
+    "name": "手指痛",
+    "description": "手指關節或指尖疼痛。"
+  },
+  {
+    "id": "finger-swelling",
+    "bodyPartId": "hands",
+    "slug": "finger-swelling",
+    "name": "手指腫脹",
+    "description": "一根或多根手指腫起、發熱或僵硬。"
+  },
+  {
+    "id": "trigger-finger",
+    "bodyPartId": "hands",
+    "slug": "trigger-finger",
+    "name": "板機指",
+    "description": "手指彎曲後卡住、彈響或伸不直。"
+  },
+  {
+    "id": "hand-tremor",
+    "bodyPartId": "hands",
+    "slug": "hand-tremor",
+    "name": "手抖",
+    "description": "手部不自主顫抖，拿東西或靜止時明顯。"
+  },
+  {
+    "id": "hand-weakness",
+    "bodyPartId": "hands",
+    "slug": "hand-weakness",
+    "name": "握力下降",
+    "description": "握不緊、容易掉東西或手部無力。"
+  },
+  {
+    "id": "cold-fingers",
+    "bodyPartId": "hands",
+    "slug": "cold-fingers",
+    "name": "手指冰冷",
+    "description": "手指常冰冷、發白或發紫。"
+  },
+  {
+    "id": "nail-change",
+    "bodyPartId": "hands",
+    "slug": "nail-change",
+    "name": "指甲變形變色",
+    "description": "指甲變厚、凹陷、變色或容易斷裂。"
+  },
+  {
+    "id": "groin-pain",
+    "bodyPartId": "groin",
+    "slug": "groin-pain",
+    "name": "鼠蹊部疼痛",
+    "description": "鼠蹊部、腹股溝或大腿根部疼痛。"
+  },
+  {
+    "id": "groin-lump",
+    "bodyPartId": "groin",
+    "slug": "groin-lump",
+    "name": "鼠蹊部腫塊",
+    "description": "腹股溝摸到腫塊或鼓起。"
+  },
+  {
+    "id": "inguinal-bulge",
+    "bodyPartId": "groin",
+    "slug": "inguinal-bulge",
+    "name": "腹股溝鼓起",
+    "description": "站立或用力時鼠蹊部鼓起。"
+  },
+  {
+    "id": "groin-swelling",
+    "bodyPartId": "groin",
+    "slug": "groin-swelling",
+    "name": "鼠蹊部腫脹",
+    "description": "鼠蹊部局部腫脹、壓痛或發熱。"
+  },
+  {
+    "id": "pubic-pain",
+    "bodyPartId": "groin",
+    "slug": "pubic-pain",
+    "name": "恥骨附近疼痛",
+    "description": "下腹靠近恥骨或鼠蹊部前側疼痛。"
+  },
+  {
+    "id": "groin-rash",
+    "bodyPartId": "groin",
+    "slug": "groin-rash",
+    "name": "鼠蹊部紅疹搔癢",
+    "description": "鼠蹊部潮濕、紅疹、脫屑或搔癢。"
+  },
+  {
+    "id": "groin-numbness",
+    "bodyPartId": "groin",
+    "slug": "groin-numbness",
+    "name": "鼠蹊部麻木",
+    "description": "鼠蹊部或會陰附近麻木、感覺異常。"
+  },
+  {
+    "id": "groin-injury-pain",
+    "bodyPartId": "groin",
+    "slug": "groin-injury-pain",
+    "name": "鼠蹊部拉傷疼痛",
+    "description": "運動或拉傷後鼠蹊部疼痛。"
+  },
+  {
+    "id": "hip-stiffness",
+    "bodyPartId": "hips",
+    "slug": "hip-stiffness",
+    "name": "髖部僵硬",
+    "description": "髖關節活動受限、久坐後僵硬。"
+  },
+  {
+    "id": "hip-clicking",
+    "bodyPartId": "hips",
+    "slug": "hip-clicking",
+    "name": "髖部喀喀響",
+    "description": "髖部活動時有彈響、卡住或摩擦感。"
+  },
+  {
+    "id": "buttock-pain",
+    "bodyPartId": "hips",
+    "slug": "buttock-pain",
+    "name": "臀部疼痛",
+    "description": "臀部深層疼痛、久坐或走路時加劇。"
+  },
+  {
+    "id": "sciatica-hip",
+    "bodyPartId": "hips",
+    "slug": "sciatica-hip",
+    "name": "坐骨神經痛",
+    "description": "臀部痛延伸到大腿、小腿或腳。"
+  },
+  {
+    "id": "hip-swelling",
+    "bodyPartId": "hips",
+    "slug": "hip-swelling",
+    "name": "髖臀腫脹",
+    "description": "髖部或臀部局部腫脹、壓痛。"
+  },
+  {
+    "id": "limited-hip-motion",
+    "bodyPartId": "hips",
+    "slug": "limited-hip-motion",
+    "name": "髖部活動受限",
+    "description": "髖部彎曲、轉動或走路受限。"
+  },
+  {
+    "id": "leg-pain",
+    "bodyPartId": "legs",
+    "slug": "leg-pain",
+    "name": "腿痛",
+    "description": "大腿、小腿或整條腿疼痛。"
+  },
+  {
+    "id": "calf-pain",
+    "bodyPartId": "legs",
+    "slug": "calf-pain",
+    "name": "小腿痛",
+    "description": "小腿肌肉疼痛、緊繃或壓痛。"
+  },
+  {
+    "id": "leg-cramps",
+    "bodyPartId": "legs",
+    "slug": "leg-cramps",
+    "name": "腳抽筋",
+    "description": "小腿或腳部突然抽筋、痙攣。"
+  },
+  {
+    "id": "leg-numbness",
+    "bodyPartId": "legs",
+    "slug": "leg-numbness",
+    "name": "腿麻",
+    "description": "腿部麻木、刺痛或感覺變鈍。"
+  },
+  {
+    "id": "leg-weakness",
+    "bodyPartId": "legs",
+    "slug": "leg-weakness",
+    "name": "腿無力",
+    "description": "走路沒力、拖腳或容易跌倒。"
+  },
+  {
+    "id": "varicose-veins",
+    "bodyPartId": "legs",
+    "slug": "varicose-veins",
+    "name": "靜脈曲張",
+    "description": "腿部血管凸起、痠脹或久站不適。"
+  },
+  {
+    "id": "leg-swelling",
+    "bodyPartId": "legs",
+    "slug": "leg-swelling",
+    "name": "腿部水腫",
+    "description": "腳踝、小腿或雙腿腫脹。"
+  },
+  {
+    "id": "shin-pain",
+    "bodyPartId": "legs",
+    "slug": "shin-pain",
+    "name": "小腿前側疼痛",
+    "description": "脛骨周圍疼痛，跑步或走路時加劇。"
+  },
+  {
+    "id": "foot-pain",
+    "bodyPartId": "feet",
+    "slug": "foot-pain",
+    "name": "腳痛",
+    "description": "足底、腳背或腳趾疼痛。"
+  },
+  {
+    "id": "toe-pain",
+    "bodyPartId": "feet",
+    "slug": "toe-pain",
+    "name": "腳趾痛",
+    "description": "腳趾關節、指甲旁或趾尖疼痛。"
+  },
+  {
+    "id": "foot-numbness",
+    "bodyPartId": "feet",
+    "slug": "foot-numbness",
+    "name": "腳麻",
+    "description": "腳底或腳趾麻木、刺痛。"
+  },
+  {
+    "id": "foot-swelling",
+    "bodyPartId": "feet",
+    "slug": "foot-swelling",
+    "name": "腳腫",
+    "description": "腳背、腳踝或足部腫脹。"
+  },
+  {
+    "id": "plantar-pain",
+    "bodyPartId": "feet",
+    "slug": "plantar-pain",
+    "name": "足底疼痛",
+    "description": "足底前段或足弓疼痛。"
+  },
+  {
+    "id": "ingrown-toenail",
+    "bodyPartId": "feet",
+    "slug": "ingrown-toenail",
+    "name": "嵌甲",
+    "description": "腳趾甲刺入旁邊皮膚，紅腫疼痛。"
+  },
+  {
+    "id": "cold-feet",
+    "bodyPartId": "feet",
+    "slug": "cold-feet",
+    "name": "腳冰冷",
+    "description": "雙腳或腳趾經常冰冷、發白或發紫。"
+  },
+  {
+    "id": "jaw-stiffness",
+    "bodyPartId": "mouth",
+    "slug": "jaw-stiffness",
+    "name": "張口困難",
+    "description": "嘴巴張不大、下巴卡住或咀嚼困難。"
+  },
+  {
+    "id": "oral-swelling",
+    "bodyPartId": "mouth",
+    "slug": "oral-swelling",
+    "name": "口腔腫脹",
+    "description": "嘴唇、舌頭、牙齦或口腔內腫起。"
+  },
+  {
+    "id": "taste-change",
+    "bodyPartId": "mouth",
+    "slug": "taste-change",
+    "name": "味覺異常",
+    "description": "味道變淡、苦味、金屬味或味覺改變。"
+  },
+  {
+    "id": "nipple-discharge",
+    "bodyPartId": "breast",
+    "slug": "nipple-discharge",
+    "name": "乳頭分泌物",
+    "description": "乳頭出現透明、乳白、黃綠或血性分泌物。"
+  },
+  {
+    "id": "breast-redness",
+    "bodyPartId": "breast",
+    "slug": "breast-redness",
+    "name": "乳房紅腫",
+    "description": "乳房局部紅、熱、腫、痛。"
+  },
+  {
+    "id": "nipple-pain",
+    "bodyPartId": "breast",
+    "slug": "nipple-pain",
+    "name": "乳頭疼痛",
+    "description": "乳頭疼痛、破皮或敏感。"
+  },
+  {
+    "id": "breast-swelling",
+    "bodyPartId": "breast",
+    "slug": "breast-swelling",
+    "name": "乳房腫脹",
+    "description": "乳房明顯腫脹、脹痛或不對稱。"
+  },
+  {
+    "id": "breast-skin-change",
+    "bodyPartId": "breast",
+    "slug": "breast-skin-change",
+    "name": "乳房皮膚改變",
+    "description": "乳房皮膚凹陷、橘皮樣、脫屑或變色。"
+  },
+  {
+    "id": "armpit-lump",
+    "bodyPartId": "breast",
+    "slug": "armpit-lump",
+    "name": "腋下腫塊",
+    "description": "腋下摸到腫塊、壓痛或淋巴結腫大。"
+  },
+  {
+    "id": "high-blood-sugar",
+    "bodyPartId": "endocrine",
+    "slug": "high-blood-sugar",
+    "name": "血糖偏高",
+    "description": "健康檢查或居家量測發現血糖偏高，可能需要評估糖尿病風險。"
+  },
+  {
+    "id": "polyuria-polydipsia",
+    "bodyPartId": "endocrine",
+    "slug": "polyuria-polydipsia",
+    "name": "多尿合併口渴",
+    "description": "頻尿、尿量增加並常覺得口渴。"
+  },
+  {
+    "id": "diabetes-followup",
+    "bodyPartId": "endocrine",
+    "slug": "diabetes-followup",
+    "name": "糖尿病控制問題",
+    "description": "已知糖尿病但血糖波動、藥物調整或併發症疑慮。"
+  },
+  {
+    "id": "hypoglycemia-sweating",
+    "bodyPartId": "endocrine",
+    "slug": "hypoglycemia-sweating",
+    "name": "冒冷汗手抖像低血糖",
+    "description": "冒冷汗、手抖、心悸、飢餓感，可能與血糖過低相關。"
+  },
+  {
+    "id": "thyroid-neck-swelling",
+    "bodyPartId": "endocrine",
+    "slug": "thyroid-neck-swelling",
+    "name": "甲狀腺腫大",
+    "description": "前頸腫脹、脖子變粗或摸到甲狀腺結節。"
+  },
+  {
+    "id": "rapid-heartbeat-weight-loss",
+    "bodyPartId": "endocrine",
+    "slug": "rapid-heartbeat-weight-loss",
+    "name": "心悸合併體重下降",
+    "description": "心跳快、手抖、怕熱並伴隨體重下降。"
+  },
+  {
+    "id": "unexplained-sweating-endocrine",
+    "bodyPartId": "endocrine",
+    "slug": "unexplained-sweating-endocrine",
+    "name": "不明原因流汗",
+    "description": "未運動或不熱也明顯流汗，可能伴隨心悸或體重變化。"
+  },
+  {
+    "id": "osteoporosis-concern",
+    "bodyPartId": "endocrine",
+    "slug": "osteoporosis-concern",
+    "name": "骨質疏鬆疑慮",
+    "description": "身高變矮、駝背、低衝擊骨折或骨密度異常。"
+  },
+  {
+    "id": "high-cholesterol",
+    "bodyPartId": "endocrine",
+    "slug": "high-cholesterol",
+    "name": "血脂偏高",
+    "description": "健檢發現膽固醇或三酸甘油脂偏高。"
+  },
+  {
+    "id": "obesity-metabolic-risk",
+    "bodyPartId": "endocrine",
+    "slug": "obesity-metabolic-risk",
+    "name": "肥胖合併代謝風險",
+    "description": "體重過重並合併血糖、血脂、血壓或脂肪肝問題。"
+  },
+  {
+    "id": "adrenal-symptoms",
+    "bodyPartId": "endocrine",
+    "slug": "adrenal-symptoms",
+    "name": "疑似腎上腺荷爾蒙異常",
+    "description": "血壓異常、體重快速變化、膚色變深或無力。"
+  },
+  {
+    "id": "pituitary-symptoms",
+    "bodyPartId": "endocrine",
+    "slug": "pituitary-symptoms",
+    "name": "疑似腦下垂體異常",
+    "description": "頭痛、視野變窄、月經異常或乳汁分泌。"
+  },
+  {
+    "id": "gestational-diabetes-concern",
+    "bodyPartId": "endocrine",
+    "slug": "gestational-diabetes-concern",
+    "name": "妊娠糖尿病疑慮",
+    "description": "懷孕期間血糖篩檢異常或血糖偏高。"
+  },
+  {
+    "id": "slow-wound-healing-diabetes",
+    "bodyPartId": "endocrine",
+    "slug": "slow-wound-healing-diabetes",
+    "name": "傷口癒合慢合併血糖疑慮",
+    "description": "傷口久久不癒合，可能伴隨血糖偏高或感染。"
+  },
+  {
+    "id": "numb-feet-diabetes",
+    "bodyPartId": "endocrine",
+    "slug": "numb-feet-diabetes",
+    "name": "腳麻合併糖尿病疑慮",
+    "description": "腳底麻木、刺痛或感覺變鈍，可能與血糖或神經相關。"
+  },
+  {
+    "id": "persistent-sadness",
+    "bodyPartId": "mental",
+    "slug": "persistent-sadness",
+    "name": "持續情緒低落",
+    "description": "情緒低落持續兩週以上，影響生活、工作或睡眠。"
+  },
+  {
+    "id": "loss-of-interest",
+    "bodyPartId": "mental",
+    "slug": "loss-of-interest",
+    "name": "失去興趣",
+    "description": "對原本喜歡的事失去興趣或動力。"
+  },
+  {
+    "id": "suicidal-thoughts",
+    "bodyPartId": "mental",
+    "slug": "suicidal-thoughts",
+    "name": "自殺念頭",
+    "description": "出現想結束生命、覺得活不下去或計畫自傷。"
+  },
+  {
+    "id": "self-harm-thoughts",
+    "bodyPartId": "mental",
+    "slug": "self-harm-thoughts",
+    "name": "自傷衝動",
+    "description": "想傷害自己、割傷自己或用疼痛紓解情緒。"
+  },
+  {
+    "id": "panic-palpitations",
+    "bodyPartId": "mental",
+    "slug": "panic-palpitations",
+    "name": "恐慌合併心悸",
+    "description": "突然強烈害怕、心悸、喘不過氣或覺得快失控。"
+  },
+  {
+    "id": "obsessive-thoughts",
+    "bodyPartId": "mental",
+    "slug": "obsessive-thoughts",
+    "name": "強迫性想法",
+    "description": "反覆出現不想要但停不下來的念頭。"
+  },
+  {
+    "id": "compulsive-behavior",
+    "bodyPartId": "mental",
+    "slug": "compulsive-behavior",
+    "name": "反覆檢查或清洗",
+    "description": "反覆洗手、檢查門鎖或儀式化行為，難以停止。"
+  },
+  {
+    "id": "hallucinations",
+    "bodyPartId": "mental",
+    "slug": "hallucinations",
+    "name": "聽到或看到不存在的東西",
+    "description": "聽到聲音、看到影像或感覺有人不存在地在場。"
+  },
+  {
+    "id": "delusion-suspicion",
+    "bodyPartId": "mental",
+    "slug": "delusion-suspicion",
+    "name": "被害感或疑心很重",
+    "description": "強烈覺得被監視、被害或被控制，影響生活。"
+  },
+  {
+    "id": "mania-symptoms",
+    "bodyPartId": "mental",
+    "slug": "mania-symptoms",
+    "name": "情緒異常高亢",
+    "description": "睡很少仍精力旺盛、話多、衝動消費或自信膨脹。"
+  },
+  {
+    "id": "mood-swings",
+    "bodyPartId": "mental",
+    "slug": "mood-swings",
+    "name": "情緒起伏很大",
+    "description": "情緒快速變化，容易失控、哭泣或暴怒。"
+  },
+  {
+    "id": "eating-disorder-concern",
+    "bodyPartId": "mental",
+    "slug": "eating-disorder-concern",
+    "name": "飲食障礙疑慮",
+    "description": "暴食、催吐、極端節食或過度在意體重身形。"
+  },
+  {
+    "id": "anorexia-concern",
+    "bodyPartId": "mental",
+    "slug": "anorexia-concern",
+    "name": "厭食或極端限制飲食",
+    "description": "長期吃很少、害怕變胖或體重明顯下降。"
+  },
+  {
+    "id": "trauma-flashback",
+    "bodyPartId": "mental",
+    "slug": "trauma-flashback",
+    "name": "創傷回憶反覆出現",
+    "description": "創傷後反覆回想、惡夢、閃回或過度警覺。"
+  },
+  {
+    "id": "social-anxiety",
+    "bodyPartId": "mental",
+    "slug": "social-anxiety",
+    "name": "社交焦慮",
+    "description": "在人群、會議或互動時強烈緊張並迴避。"
+  },
+  {
+    "id": "memory-behavior-change-elderly",
+    "bodyPartId": "mental",
+    "slug": "memory-behavior-change-elderly",
+    "name": "長者記憶與行為改變",
+    "description": "長者記憶下降、個性改變、疑心或日夜顛倒。"
+  },
+  {
+    "id": "child-autism-traits",
+    "bodyPartId": "child",
+    "slug": "child-autism-traits",
+    "name": "兒童自閉特質疑慮",
+    "description": "眼神互動少、語言社交發展慢或重複行為。"
+  },
+  {
+    "id": "child-adhd-concern",
+    "bodyPartId": "child",
+    "slug": "child-adhd-concern",
+    "name": "兒童注意力過動疑慮",
+    "description": "注意力不集中、坐不住、衝動或學習受影響。"
+  },
+  {
+    "id": "child-school-refusal",
+    "bodyPartId": "child",
+    "slug": "child-school-refusal",
+    "name": "兒童拒學",
+    "description": "孩子強烈不想上學，可能合併焦慮、身體不適或情緒低落。"
+  },
+  {
+    "id": "child-speech-delay",
+    "bodyPartId": "child",
+    "slug": "child-speech-delay",
+    "name": "兒童語言發展慢",
+    "description": "說話較同齡慢、詞彙少或理解表達困難。"
+  },
+  {
+    "id": "child-emotional-outbursts",
+    "bodyPartId": "child",
+    "slug": "child-emotional-outbursts",
+    "name": "兒童情緒爆發",
+    "description": "孩子常暴怒、哭鬧失控或難以安撫。"
+  },
+  {
+    "id": "child-sleep-problem",
+    "bodyPartId": "child",
+    "slug": "child-sleep-problem",
+    "name": "兒童睡眠問題",
+    "description": "孩子難入睡、夜醒、惡夢或日夜作息混亂。"
+  },
+  {
+    "id": "child-eating-problem",
+    "bodyPartId": "child",
+    "slug": "child-eating-problem",
+    "name": "兒童飲食困難",
+    "description": "挑食嚴重、吃很少、吞嚥或餵食困難。"
+  },
+  {
+    "id": "child-regression",
+    "bodyPartId": "child",
+    "slug": "child-regression",
+    "name": "兒童發展退化",
+    "description": "原本會的語言、社交或動作能力退步。"
   }
 ]

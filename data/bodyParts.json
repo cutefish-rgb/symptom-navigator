@@ -98,13 +98,13 @@
   {
     "id": "mental",
     "slug": "mental",
-    "name": "身心",
+    "name": "精神身心",
     "imageKey": "mental"
   },
   {
     "id": "endocrine",
     "slug": "endocrine",
-    "name": "內分泌",
+    "name": "內分泌新陳代謝",
     "imageKey": "endocrine"
   },
   {
@@ -172,5 +172,71 @@
     "slug": "nutrition",
     "name": "營養代謝",
     "imageKey": "nutrition"
+  },
+  {
+    "id": "face",
+    "slug": "face",
+    "name": "臉部",
+    "imageKey": "face"
+  },
+  {
+    "id": "neck",
+    "slug": "neck",
+    "name": "頸部",
+    "imageKey": "neck"
+  },
+  {
+    "id": "shoulders",
+    "slug": "shoulders",
+    "name": "肩膀",
+    "imageKey": "shoulders"
+  },
+  {
+    "id": "arms",
+    "slug": "arms",
+    "name": "手臂",
+    "imageKey": "arms"
+  },
+  {
+    "id": "hands",
+    "slug": "hands",
+    "name": "手部",
+    "imageKey": "hands"
+  },
+  {
+    "id": "groin",
+    "slug": "groin",
+    "name": "鼠蹊部",
+    "imageKey": "groin"
+  },
+  {
+    "id": "hips",
+    "slug": "hips",
+    "name": "髖臀",
+    "imageKey": "hips"
+  },
+  {
+    "id": "legs",
+    "slug": "legs",
+    "name": "腿部",
+    "imageKey": "legs"
+  },
+  {
+    "id": "feet",
+    "slug": "feet",
+    "name": "足部",
+    "imageKey": "feet"
+  },
+  {
+    "id": "mouth",
+    "slug": "mouth",
+    "name": "口腔",
+    "imageKey": "mouth"
+  },
+  {
+    "id": "breast",
+    "slug": "breast",
+    "name": "乳房",
+    "imageKey": "breast"
   }
 ]

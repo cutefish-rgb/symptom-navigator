@@ -95,6 +95,7 @@ export default async function HomePage() {
     <section className="home-picker">
       <div className="home-intro">
         <div>
+          <p className="developer-credit">Developer: Cutefish</p>
           <h1>哪裡不舒服？</h1>
           <p>點選身體部位，快速找到建議掛號科別</p>
         </div>

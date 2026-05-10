@@ -95,16 +95,16 @@ main {
 
 .home-picker {
   margin: 0 auto;
-  max-width: 1120px;
-  padding: 40px 24px 64px;
+  max-width: 1180px;
+  padding: 22px 24px 64px;
 }
 
 .home-intro {
   align-items: end;
   display: flex;
   justify-content: space-between;
-  margin: 0 auto 28px;
-  max-width: 980px;
+  margin: 0 auto 18px;
+  max-width: 1040px;
 }
 
 .home-picker h1 {
@@ -113,16 +113,25 @@ main {
   margin: 0 0 8px;
 }
 
+.home-picker .developer-credit {
+  color: var(--primary-dark);
+  font-size: 13px;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  margin: 0 0 8px;
+  text-transform: uppercase;
+}
+
 .home-picker p {
   color: var(--muted);
-  margin: 0 0 32px;
+  margin: 0 0 20px;
 }
 
 .home-body-layout {
   align-items: center;
   display: grid;
-  gap: 32px;
-  grid-template-columns: minmax(320px, 440px) 1fr;
+  gap: 28px;
+  grid-template-columns: minmax(360px, 510px) 1fr;
 }
 
 .home-figure-panel {
@@ -134,19 +143,19 @@ main {
   box-shadow: var(--shadow);
   display: flex;
   justify-content: center;
-  min-height: 660px;
+  min-height: 730px;
   overflow: hidden;
-  padding: 18px;
+  padding: 14px;
   position: relative;
 }
 
 .home-figure-image {
   border-radius: 8px;
   height: auto;
-  max-height: 630px;
+  max-height: 710px;
   max-width: 100%;
   object-fit: contain;
-  width: min(420px, 100%);
+  width: min(500px, 100%);
 }
 
 .body-hotspot {
@@ -693,11 +702,11 @@ main {
   }
 
   .home-figure-panel {
-    min-height: 560px;
+    min-height: 640px;
   }
 
   .home-figure-image {
-    max-height: 530px;
+    max-height: 620px;
   }
 
   .body-map-layout,
@@ -714,6 +723,7 @@ main {
   .home-picker {
     padding-left: 18px;
     padding-right: 18px;
+    padding-top: 18px;
   }
 
   .home-intro {
@@ -725,12 +735,12 @@ main {
   }
 
   .home-figure-panel {
-    min-height: 500px;
+    min-height: 560px;
     padding: 10px;
   }
 
   .home-figure-image {
-    max-height: 480px;
+    max-height: 540px;
   }
 
   .body-marker {

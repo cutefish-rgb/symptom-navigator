@@ -130,5 +130,47 @@
     "slug": "infection",
     "name": "感染",
     "imageKey": "infection"
+  },
+  {
+    "id": "respiratory",
+    "slug": "respiratory",
+    "name": "呼吸",
+    "imageKey": "respiratory"
+  },
+  {
+    "id": "kidney",
+    "slug": "kidney",
+    "name": "腎臟",
+    "imageKey": "kidney"
+  },
+  {
+    "id": "rectal",
+    "slug": "rectal",
+    "name": "肛門直腸",
+    "imageKey": "rectal"
+  },
+  {
+    "id": "allergy",
+    "slug": "allergy",
+    "name": "過敏免疫",
+    "imageKey": "allergy"
+  },
+  {
+    "id": "sleep",
+    "slug": "sleep",
+    "name": "睡眠",
+    "imageKey": "sleep"
+  },
+  {
+    "id": "male",
+    "slug": "male",
+    "name": "男性健康",
+    "imageKey": "male"
+  },
+  {
+    "id": "nutrition",
+    "slug": "nutrition",
+    "name": "營養代謝",
+    "imageKey": "nutrition"
   }
 ]

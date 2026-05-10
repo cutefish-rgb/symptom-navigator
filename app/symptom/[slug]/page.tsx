@@ -47,6 +47,17 @@ export default async function SymptomPage({ params }: SymptomPageProps) {
 
   return (
     <article className="symptom-article">
+      <nav className="top-page-actions" aria-label="頁面操作">
+        <Button href="/" variant="primary" className="large-nav-button">
+          回首頁
+        </Button>
+        {page.bodyPartSlug ? (
+          <Button href={`/body-part/${page.bodyPartSlug}`} variant="secondary" className="large-nav-button">
+            查看{page.bodyPartName}其他症狀
+          </Button>
+        ) : null}
+      </nav>
+
       <div className="symptom-breadcrumb">{page.bodyPartName || "症狀"} / {page.symptomName}</div>
 
       <header className="symptom-article-header">
@@ -98,17 +109,6 @@ export default async function SymptomPage({ params }: SymptomPageProps) {
           ))}
         </div>
       </section>
-
-      <div className="page-actions">
-        {page.bodyPartSlug ? (
-          <Button href={`/body-part/${page.bodyPartSlug}`} variant="secondary">
-            查看{page.bodyPartName}其他症狀
-          </Button>
-        ) : null}
-        <Button href="/" variant="ghost">
-          回首頁
-        </Button>
-      </div>
 
       <script
         type="application/ld+json"

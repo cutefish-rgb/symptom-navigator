@@ -492,6 +492,19 @@ main {
   padding: 48px 24px 72px;
 }
 
+.top-page-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-bottom: 24px;
+}
+
+.large-nav-button {
+  font-size: 17px;
+  min-height: 54px;
+  padding: 14px 22px;
+}
+
 .symptom-breadcrumb {
   color: var(--primary);
   font-size: 14px;

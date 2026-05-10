@@ -2056,5 +2056,521 @@
     ],
     "seeDoctorSoon": "類感冒症狀持續、慢性病或高風險族群，建議就醫。",
     "emergency": "呼吸困難、胸痛、意識改變或血氧偏低，請急診。"
+  },
+  {
+    "symptomId": "wheezing-breath",
+    "departments": [
+      "胸腔內科",
+      "家醫科"
+    ],
+    "seeDoctorSoon": "喘鳴反覆、夜間明顯或活動後加重，建議就醫。",
+    "emergency": "喘到無法說完整句、嘴唇發紫或吸入藥無效，請急診。"
+  },
+  {
+    "symptomId": "rapid-breathing",
+    "departments": [
+      "胸腔內科",
+      "心臟內科",
+      "急診醫學科"
+    ],
+    "seeDoctorSoon": "呼吸急促持續或反覆，建議就醫評估。",
+    "emergency": "休息仍喘、胸痛、嘴唇發紫或意識不清，請急診。"
+  },
+  {
+    "symptomId": "chest-congestion",
+    "departments": [
+      "胸腔內科",
+      "耳鼻喉科",
+      "家醫科"
+    ],
+    "seeDoctorSoon": "胸口痰塞感持續、黃綠痰或發燒，建議就醫。",
+    "emergency": "呼吸困難、咳血、胸痛或高燒不退，請急診。"
+  },
+  {
+    "symptomId": "cannot-take-deep-breath",
+    "departments": [
+      "胸腔內科",
+      "心臟內科",
+      "身心科"
+    ],
+    "seeDoctorSoon": "吸不到氣反覆、活動後加重或合併胸悶，建議就醫。",
+    "emergency": "休息仍呼吸困難、胸痛、昏厥或嘴唇發紫，請急診。"
+  },
+  {
+    "symptomId": "long-covid-breath",
+    "departments": [
+      "胸腔內科",
+      "家醫科"
+    ],
+    "seeDoctorSoon": "感染後喘咳超過數週，建議胸腔科評估。",
+    "emergency": "血氧低、胸痛、呼吸困難快速惡化，請急診。"
+  },
+  {
+    "symptomId": "pleuritic-pain",
+    "departments": [
+      "胸腔內科",
+      "急診醫學科"
+    ],
+    "seeDoctorSoon": "深呼吸刺痛持續或合併咳嗽發燒，建議就醫。",
+    "emergency": "合併呼吸困難、咳血、單側腿腫痛或胸痛劇烈，請急診。"
+  },
+  {
+    "symptomId": "low-oxygen-suspected",
+    "departments": [
+      "急診醫學科",
+      "胸腔內科"
+    ],
+    "seeDoctorSoon": "疑似血氧偏低應盡快就醫。",
+    "emergency": "血氧明顯偏低、意識不清或呼吸困難，請立即急診。"
+  },
+  {
+    "symptomId": "shortness-lying",
+    "departments": [
+      "心臟內科",
+      "胸腔內科"
+    ],
+    "seeDoctorSoon": "躺下喘反覆或合併水腫，建議就醫。",
+    "emergency": "休息仍喘、胸痛或嘴唇發紫，請急診。"
+  },
+  {
+    "symptomId": "proteinuria",
+    "departments": [
+      "腎臟內科",
+      "家醫科"
+    ],
+    "seeDoctorSoon": "尿蛋白持續或合併高血壓、水腫，建議腎臟科追蹤。",
+    "emergency": "嚴重水腫、呼吸困難、血尿或尿量明顯減少，請急診。"
+  },
+  {
+    "symptomId": "reduced-urine",
+    "departments": [
+      "腎臟內科",
+      "急診醫學科"
+    ],
+    "seeDoctorSoon": "尿量變少持續或合併水腫，建議就醫。",
+    "emergency": "幾乎無尿、呼吸困難、意識改變或嚴重脫水，請急診。"
+  },
+  {
+    "symptomId": "swollen-face-morning",
+    "departments": [
+      "腎臟內科",
+      "家醫科"
+    ],
+    "seeDoctorSoon": "早上臉腫持續、合併泡泡尿或高血壓，建議檢查。",
+    "emergency": "呼吸困難、嚴重水腫或尿量明顯減少，請急診。"
+  },
+  {
+    "symptomId": "high-blood-pressure",
+    "departments": [
+      "家醫科",
+      "心臟內科",
+      "腎臟內科"
+    ],
+    "seeDoctorSoon": "血壓反覆偏高，建議就醫評估與追蹤。",
+    "emergency": "血壓極高合併胸痛、頭痛、視力改變或神經症狀，請急診。"
+  },
+  {
+    "symptomId": "kidney-stone-suspected",
+    "departments": [
+      "泌尿科",
+      "腎臟內科",
+      "急診醫學科"
+    ],
+    "seeDoctorSoon": "疑似腎結石建議泌尿科評估。",
+    "emergency": "劇烈疼痛、發燒、無法排尿或持續嘔吐，請急診。"
+  },
+  {
+    "symptomId": "uremia-symptoms",
+    "departments": [
+      "腎臟內科",
+      "急診醫學科"
+    ],
+    "seeDoctorSoon": "若有腎功能不佳且出現這些症狀，應盡快就醫。",
+    "emergency": "意識改變、呼吸困難、胸痛或嚴重虛弱，請急診。"
+  },
+  {
+    "symptomId": "leg-cramps-kidney",
+    "departments": [
+      "家醫科",
+      "腎臟內科",
+      "復健科"
+    ],
+    "seeDoctorSoon": "夜間抽筋反覆、合併水腫或腎病史，建議評估。",
+    "emergency": "合併單側腿腫痛、呼吸困難或胸痛，請急診。"
+  },
+  {
+    "symptomId": "electrolyte-symptoms",
+    "departments": [
+      "腎臟內科",
+      "家醫科",
+      "急診醫學科"
+    ],
+    "seeDoctorSoon": "疑似電解質異常或用利尿劑者，建議抽血檢查。",
+    "emergency": "心律不整、昏厥、抽搐或意識改變，請急診。"
+  },
+  {
+    "symptomId": "hemorrhoids",
+    "departments": [
+      "大腸直腸外科",
+      "家醫科"
+    ],
+    "seeDoctorSoon": "痔瘡反覆出血、疼痛或突出，建議就醫。",
+    "emergency": "大量出血、頭暈虛弱或劇烈肛門痛，請急診。"
+  },
+  {
+    "symptomId": "anal-pain",
+    "departments": [
+      "大腸直腸外科",
+      "家醫科"
+    ],
+    "seeDoctorSoon": "肛門痛持續、排便疼痛或合併出血，建議就醫。",
+    "emergency": "劇烈疼痛、發燒、膿腫或大量出血，請急診。"
+  },
+  {
+    "symptomId": "anal-itching",
+    "departments": [
+      "大腸直腸外科",
+      "皮膚科",
+      "家醫科"
+    ],
+    "seeDoctorSoon": "肛門搔癢持續、反覆或合併皮疹，建議就醫。",
+    "emergency": "合併紅腫熱痛、發燒或快速擴散，請急診。"
+  },
+  {
+    "symptomId": "rectal-bleeding",
+    "departments": [
+      "大腸直腸外科",
+      "腸胃內科"
+    ],
+    "seeDoctorSoon": "肛門出血反覆或不明原因，建議檢查。",
+    "emergency": "大量出血、黑便、頭暈虛弱或腹痛劇烈，請急診。"
+  },
+  {
+    "symptomId": "painful-defecation",
+    "departments": [
+      "大腸直腸外科",
+      "家醫科"
+    ],
+    "seeDoctorSoon": "排便疼痛持續或合併出血，建議就醫。",
+    "emergency": "劇痛合併發燒、膿腫或大量出血，請急診。"
+  },
+  {
+    "symptomId": "anal-lump",
+    "departments": [
+      "大腸直腸外科"
+    ],
+    "seeDoctorSoon": "肛門腫塊持續、疼痛或出血，建議就醫。",
+    "emergency": "快速腫痛、發燒或疑似膿瘍，請急診。"
+  },
+  {
+    "symptomId": "fecal-incontinence",
+    "departments": [
+      "大腸直腸外科",
+      "神經內科",
+      "復健科"
+    ],
+    "seeDoctorSoon": "大便失禁持續或新出現，建議就醫評估。",
+    "emergency": "合併下肢無力、會陰麻木或大小便突然失控，請急診。"
+  },
+  {
+    "symptomId": "narrow-stool",
+    "departments": [
+      "腸胃內科",
+      "大腸直腸外科"
+    ],
+    "seeDoctorSoon": "糞便變細持續、合併血便或體重下降，建議檢查。",
+    "emergency": "大量血便、劇烈腹痛或無法排便排氣，請急診。"
+  },
+  {
+    "symptomId": "allergic-rhinitis",
+    "departments": [
+      "耳鼻喉科",
+      "過敏免疫科",
+      "家醫科"
+    ],
+    "seeDoctorSoon": "過敏性鼻炎影響睡眠或生活，建議評估。",
+    "emergency": "合併呼吸困難或嚴重過敏反應，請急診。"
+  },
+  {
+    "symptomId": "food-allergy",
+    "departments": [
+      "過敏免疫科",
+      "家醫科"
+    ],
+    "seeDoctorSoon": "疑似食物過敏反覆，建議評估過敏原。",
+    "emergency": "嘴唇舌頭腫、喉嚨緊、喘或昏厥，請急診。"
+  },
+  {
+    "symptomId": "drug-allergy",
+    "departments": [
+      "過敏免疫科",
+      "皮膚科",
+      "家醫科"
+    ],
+    "seeDoctorSoon": "疑似藥物過敏應停止自行再服並就醫確認。",
+    "emergency": "呼吸困難、嘴唇舌頭腫、大面積水泡或發燒，請急診。"
+  },
+  {
+    "symptomId": "angioedema",
+    "departments": [
+      "急診醫學科",
+      "過敏免疫科"
+    ],
+    "seeDoctorSoon": "血管性水腫應盡快評估原因。",
+    "emergency": "舌頭喉嚨腫、呼吸困難或聲音改變，請立即急診。"
+  },
+  {
+    "symptomId": "chronic-hives",
+    "departments": [
+      "過敏免疫科",
+      "皮膚科"
+    ],
+    "seeDoctorSoon": "慢性蕁麻疹建議評估誘因與控制方式。",
+    "emergency": "合併喘、喉嚨緊或嘴唇舌頭腫，請急診。"
+  },
+  {
+    "symptomId": "asthma-attack",
+    "departments": [
+      "胸腔內科",
+      "急診醫學科"
+    ],
+    "seeDoctorSoon": "氣喘症狀反覆或吸入藥需求增加，建議就醫。",
+    "emergency": "喘到無法說話、嘴唇發紫或藥物無效，請急診。"
+  },
+  {
+    "symptomId": "eye-allergy",
+    "departments": [
+      "眼科",
+      "過敏免疫科"
+    ],
+    "seeDoctorSoon": "眼睛過敏反覆或影響生活，建議評估。",
+    "emergency": "合併視力下降、劇烈眼痛或畏光，請急診。"
+  },
+  {
+    "symptomId": "contact-dermatitis",
+    "departments": [
+      "皮膚科",
+      "過敏免疫科"
+    ],
+    "seeDoctorSoon": "接觸性皮膚炎反覆或範圍擴大，建議就醫。",
+    "emergency": "大面積水泡、發燒或快速紅腫擴散，請急診。"
+  },
+  {
+    "symptomId": "difficulty-falling-asleep",
+    "departments": [
+      "身心科",
+      "家醫科"
+    ],
+    "seeDoctorSoon": "入睡困難超過數週或影響白天功能，建議評估。",
+    "emergency": "合併自傷念頭、嚴重躁動或意識混亂，請立即求助。"
+  },
+  {
+    "symptomId": "early-morning-awakening",
+    "departments": [
+      "身心科",
+      "家醫科"
+    ],
+    "seeDoctorSoon": "早醒持續、合併情緒低落或疲倦，建議就醫。",
+    "emergency": "若有自傷念頭或嚴重憂鬱，請立即求助。"
+  },
+  {
+    "symptomId": "frequent-night-waking",
+    "departments": [
+      "身心科",
+      "家醫科",
+      "胸腔內科"
+    ],
+    "seeDoctorSoon": "半夜常醒影響生活，建議評估睡眠、壓力與呼吸問題。",
+    "emergency": "夜間呼吸困難、胸痛或嚴重混亂，請急診。"
+  },
+  {
+    "symptomId": "restless-legs",
+    "departments": [
+      "神經內科",
+      "家醫科"
+    ],
+    "seeDoctorSoon": "不寧腿反覆影響睡眠，建議評估鐵質與神經因素。",
+    "emergency": "合併單側腿腫痛、胸痛或呼吸困難，請急診。"
+  },
+  {
+    "symptomId": "nightmares",
+    "departments": [
+      "身心科",
+      "家醫科"
+    ],
+    "seeDoctorSoon": "惡夢頻繁、合併焦慮創傷或失眠，建議評估。",
+    "emergency": "若有自傷念頭、失控行為或意識混亂，請立即求助。"
+  },
+  {
+    "symptomId": "sleepwalking",
+    "departments": [
+      "神經內科",
+      "身心科",
+      "家醫科"
+    ],
+    "seeDoctorSoon": "夢遊反覆、造成危險或成人新發作，建議就醫。",
+    "emergency": "合併抽搐、受傷或意識異常，請急診。"
+  },
+  {
+    "symptomId": "shift-work-sleep",
+    "departments": [
+      "身心科",
+      "家醫科"
+    ],
+    "seeDoctorSoon": "輪班造成睡眠障礙或影響安全，建議評估。",
+    "emergency": "嚴重嗜睡造成危險、意識改變，請急診。"
+  },
+  {
+    "symptomId": "teeth-grinding-sleep",
+    "departments": [
+      "牙科",
+      "身心科"
+    ],
+    "seeDoctorSoon": "磨牙造成牙痛、下巴痛或牙齒磨耗，建議就醫。",
+    "emergency": "下巴卡住無法閉合或外傷疼痛，請急診。"
+  },
+  {
+    "symptomId": "testicular-pain",
+    "departments": [
+      "泌尿科",
+      "急診醫學科"
+    ],
+    "seeDoctorSoon": "睪丸疼痛應盡快泌尿科評估。",
+    "emergency": "突然劇烈睪丸痛、噁心嘔吐或陰囊上提，請立即急診。"
+  },
+  {
+    "symptomId": "erectile-dysfunction",
+    "departments": [
+      "泌尿科",
+      "家醫科"
+    ],
+    "seeDoctorSoon": "勃起功能障礙持續或影響生活，建議評估心血管與荷爾蒙。",
+    "emergency": "若合併胸痛、心血管急症症狀，請急診。"
+  },
+  {
+    "symptomId": "penile-discharge",
+    "departments": [
+      "泌尿科",
+      "感染科"
+    ],
+    "seeDoctorSoon": "尿道分泌物或尿痛，建議就醫檢查感染。",
+    "emergency": "合併發燒、陰囊劇痛或無法排尿，請急診。"
+  },
+  {
+    "symptomId": "prostate-symptoms",
+    "departments": [
+      "泌尿科"
+    ],
+    "seeDoctorSoon": "攝護腺相關排尿症狀持續，建議泌尿科評估。",
+    "emergency": "完全尿不出來、發燒或下腹劇痛，請急診。"
+  },
+  {
+    "symptomId": "scrotal-swelling",
+    "departments": [
+      "泌尿科"
+    ],
+    "seeDoctorSoon": "陰囊腫脹持續或疼痛，建議就醫。",
+    "emergency": "突然劇痛、發燒、外傷或睪丸扭轉疑慮，請急診。"
+  },
+  {
+    "symptomId": "male-infertility-concern",
+    "departments": [
+      "泌尿科",
+      "家醫科"
+    ],
+    "seeDoctorSoon": "備孕一年未孕或有相關病史，建議評估。",
+    "emergency": "急性睪丸疼痛或感染症狀，請急診。"
+  },
+  {
+    "symptomId": "premature-ejaculation",
+    "departments": [
+      "泌尿科",
+      "身心科"
+    ],
+    "seeDoctorSoon": "早洩持續造成困擾，建議泌尿科或身心科評估。",
+    "emergency": "若合併急性疼痛、感染或血尿，請就醫。"
+  },
+  {
+    "symptomId": "blood-in-semen",
+    "departments": [
+      "泌尿科"
+    ],
+    "seeDoctorSoon": "精液帶血若反覆或合併疼痛，建議泌尿科檢查。",
+    "emergency": "合併發燒、血尿、劇痛或無法排尿，請急診。"
+  },
+  {
+    "symptomId": "loss-of-appetite-nutrition",
+    "departments": [
+      "家醫科",
+      "腸胃內科"
+    ],
+    "seeDoctorSoon": "胃口變差持續超過一到兩週或體重下降，建議就醫。",
+    "emergency": "嚴重脫水、意識改變、劇烈腹痛或吐血黑便，請急診。"
+  },
+  {
+    "symptomId": "unintentional-weight-gain",
+    "departments": [
+      "家醫科",
+      "內分泌新陳代謝科"
+    ],
+    "seeDoctorSoon": "不明體重增加合併疲倦、水腫或怕冷，建議就醫。",
+    "emergency": "呼吸困難、胸痛或水腫快速惡化，請急診。"
+  },
+  {
+    "symptomId": "unintentional-weight-loss-nutrition",
+    "departments": [
+      "家醫科",
+      "腸胃內科",
+      "血液腫瘤科"
+    ],
+    "seeDoctorSoon": "不明體重下降明顯或持續，建議檢查。",
+    "emergency": "嚴重虛弱、脫水、吐血黑便或呼吸困難，請急診。"
+  },
+  {
+    "symptomId": "dehydration-suspected",
+    "departments": [
+      "家醫科",
+      "急診醫學科"
+    ],
+    "seeDoctorSoon": "疑似脫水且無法補水或持續嘔吐腹瀉，建議就醫。",
+    "emergency": "意識改變、昏厥、尿量極少或嚴重虛弱，請急診。"
+  },
+  {
+    "symptomId": "vitamin-deficiency-suspected",
+    "departments": [
+      "家醫科",
+      "營養醫學科"
+    ],
+    "seeDoctorSoon": "疑似營養缺乏持續，建議抽血與飲食評估。",
+    "emergency": "嚴重虛弱、神經症狀快速惡化或意識改變，請急診。"
+  },
+  {
+    "symptomId": "binge-eating",
+    "departments": [
+      "身心科",
+      "家醫科",
+      "營養醫學科"
+    ],
+    "seeDoctorSoon": "暴食反覆、影響情緒或體重，建議身心科評估。",
+    "emergency": "若有自傷念頭、嚴重嘔吐或電解質症狀，請急診。"
+  },
+  {
+    "symptomId": "eating-too-little",
+    "departments": [
+      "身心科",
+      "家醫科",
+      "營養醫學科"
+    ],
+    "seeDoctorSoon": "吃太少、體重下降或月經停止，建議就醫。",
+    "emergency": "昏厥、心悸、嚴重虛弱或意識改變，請急診。"
+  },
+  {
+    "symptomId": "salt-craving",
+    "departments": [
+      "家醫科",
+      "內分泌新陳代謝科"
+    ],
+    "seeDoctorSoon": "特別想吃鹹合併疲倦、低血壓或體重變化，建議評估。",
+    "emergency": "嚴重虛弱、昏厥或意識改變，請急診。"
   }
 ]

@@ -1573,5 +1573,397 @@
     "slug": "covid-like-symptoms",
     "name": "類感冒症狀",
     "description": "喉嚨痛、咳嗽、發燒、流鼻水或全身痠痛。"
+  },
+  {
+    "id": "wheezing-breath",
+    "bodyPartId": "respiratory",
+    "slug": "wheezing-breath",
+    "name": "呼吸有咻咻聲",
+    "description": "呼吸時出現咻咻聲，可能伴隨咳嗽或胸悶。"
+  },
+  {
+    "id": "rapid-breathing",
+    "bodyPartId": "respiratory",
+    "slug": "rapid-breathing",
+    "name": "呼吸急促",
+    "description": "呼吸頻率變快，可能休息時也覺得喘。"
+  },
+  {
+    "id": "chest-congestion",
+    "bodyPartId": "respiratory",
+    "slug": "chest-congestion",
+    "name": "胸口有痰塞感",
+    "description": "胸口像有痰卡住、悶住或咳不乾淨。"
+  },
+  {
+    "id": "cannot-take-deep-breath",
+    "bodyPartId": "respiratory",
+    "slug": "cannot-take-deep-breath",
+    "name": "吸不到氣",
+    "description": "感覺吸氣不夠深、胸口緊或空氣不夠。"
+  },
+  {
+    "id": "long-covid-breath",
+    "bodyPartId": "respiratory",
+    "slug": "long-covid-breath",
+    "name": "感染後喘不過氣",
+    "description": "感冒或病毒感染後持續喘、咳或胸悶。"
+  },
+  {
+    "id": "pleuritic-pain",
+    "bodyPartId": "respiratory",
+    "slug": "pleuritic-pain",
+    "name": "深呼吸刺痛",
+    "description": "深呼吸或咳嗽時胸側刺痛。"
+  },
+  {
+    "id": "low-oxygen-suspected",
+    "bodyPartId": "respiratory",
+    "slug": "low-oxygen-suspected",
+    "name": "疑似血氧低",
+    "description": "嘴唇發紫、喘、頭暈或血氧機數值偏低。"
+  },
+  {
+    "id": "shortness-lying",
+    "bodyPartId": "respiratory",
+    "slug": "shortness-lying",
+    "name": "躺下喘",
+    "description": "躺平時喘或夜間因喘醒。"
+  },
+  {
+    "id": "proteinuria",
+    "bodyPartId": "kidney",
+    "slug": "proteinuria",
+    "name": "尿蛋白",
+    "description": "尿液檢查有蛋白，可能伴隨泡泡尿或水腫。"
+  },
+  {
+    "id": "reduced-urine",
+    "bodyPartId": "kidney",
+    "slug": "reduced-urine",
+    "name": "尿量變少",
+    "description": "排尿量明顯減少，可能伴隨水腫或疲倦。"
+  },
+  {
+    "id": "swollen-face-morning",
+    "bodyPartId": "kidney",
+    "slug": "swollen-face-morning",
+    "name": "早上臉腫",
+    "description": "早晨眼皮或臉部浮腫，可能伴隨泡泡尿。"
+  },
+  {
+    "id": "high-blood-pressure",
+    "bodyPartId": "kidney",
+    "slug": "high-blood-pressure",
+    "name": "血壓偏高",
+    "description": "血壓持續偏高或量到異常數值。"
+  },
+  {
+    "id": "kidney-stone-suspected",
+    "bodyPartId": "kidney",
+    "slug": "kidney-stone-suspected",
+    "name": "疑似腎結石",
+    "description": "腰側劇痛、血尿或疼痛延伸到下腹鼠蹊。"
+  },
+  {
+    "id": "uremia-symptoms",
+    "bodyPartId": "kidney",
+    "slug": "uremia-symptoms",
+    "name": "疑似尿毒症症狀",
+    "description": "噁心、食慾差、疲倦、皮膚癢或意識變差。"
+  },
+  {
+    "id": "leg-cramps-kidney",
+    "bodyPartId": "kidney",
+    "slug": "leg-cramps-kidney",
+    "name": "夜間腳抽筋",
+    "description": "夜間小腿抽筋，可能與電解質、循環或腎功能相關。"
+  },
+  {
+    "id": "electrolyte-symptoms",
+    "bodyPartId": "kidney",
+    "slug": "electrolyte-symptoms",
+    "name": "疑似電解質異常",
+    "description": "無力、心悸、抽筋、麻木或意識變化。"
+  },
+  {
+    "id": "hemorrhoids",
+    "bodyPartId": "rectal",
+    "slug": "hemorrhoids",
+    "name": "痔瘡",
+    "description": "肛門腫痛、便後出血或有腫塊突出。"
+  },
+  {
+    "id": "anal-pain",
+    "bodyPartId": "rectal",
+    "slug": "anal-pain",
+    "name": "肛門疼痛",
+    "description": "肛門灼熱、刺痛或排便時疼痛。"
+  },
+  {
+    "id": "anal-itching",
+    "bodyPartId": "rectal",
+    "slug": "anal-itching",
+    "name": "肛門搔癢",
+    "description": "肛門周圍搔癢、潮濕或皮膚刺激。"
+  },
+  {
+    "id": "rectal-bleeding",
+    "bodyPartId": "rectal",
+    "slug": "rectal-bleeding",
+    "name": "肛門出血",
+    "description": "便後衛生紙有血或馬桶中有鮮血。"
+  },
+  {
+    "id": "painful-defecation",
+    "bodyPartId": "rectal",
+    "slug": "painful-defecation",
+    "name": "排便疼痛",
+    "description": "排便時肛門疼痛、撕裂感或灼熱。"
+  },
+  {
+    "id": "anal-lump",
+    "bodyPartId": "rectal",
+    "slug": "anal-lump",
+    "name": "肛門腫塊",
+    "description": "肛門旁摸到腫塊、突出或疼痛。"
+  },
+  {
+    "id": "fecal-incontinence",
+    "bodyPartId": "rectal",
+    "slug": "fecal-incontinence",
+    "name": "大便失禁",
+    "description": "無法控制排便或常有滲便。"
+  },
+  {
+    "id": "narrow-stool",
+    "bodyPartId": "rectal",
+    "slug": "narrow-stool",
+    "name": "糞便變細",
+    "description": "大便形狀變細或排便習慣改變。"
+  },
+  {
+    "id": "allergic-rhinitis",
+    "bodyPartId": "allergy",
+    "slug": "allergic-rhinitis",
+    "name": "過敏性鼻炎",
+    "description": "鼻癢、打噴嚏、流鼻水或鼻塞反覆。"
+  },
+  {
+    "id": "food-allergy",
+    "bodyPartId": "allergy",
+    "slug": "food-allergy",
+    "name": "食物過敏",
+    "description": "吃特定食物後出現皮疹、嘴唇腫、腹痛或喘。"
+  },
+  {
+    "id": "drug-allergy",
+    "bodyPartId": "allergy",
+    "slug": "drug-allergy",
+    "name": "藥物過敏",
+    "description": "服藥後出現皮疹、癢、腫或呼吸不適。"
+  },
+  {
+    "id": "angioedema",
+    "bodyPartId": "allergy",
+    "slug": "angioedema",
+    "name": "血管性水腫",
+    "description": "嘴唇、眼皮、舌頭或喉嚨突然腫脹。"
+  },
+  {
+    "id": "chronic-hives",
+    "bodyPartId": "allergy",
+    "slug": "chronic-hives",
+    "name": "慢性蕁麻疹",
+    "description": "風團反覆超過六週，常伴隨搔癢。"
+  },
+  {
+    "id": "asthma-attack",
+    "bodyPartId": "allergy",
+    "slug": "asthma-attack",
+    "name": "氣喘發作",
+    "description": "喘、胸悶、咳嗽或呼吸咻咻聲突然加重。"
+  },
+  {
+    "id": "eye-allergy",
+    "bodyPartId": "allergy",
+    "slug": "eye-allergy",
+    "name": "眼睛過敏",
+    "description": "眼睛癢、紅、流淚，常合併鼻過敏。"
+  },
+  {
+    "id": "contact-dermatitis",
+    "bodyPartId": "allergy",
+    "slug": "contact-dermatitis",
+    "name": "接觸性皮膚炎",
+    "description": "接觸特定物品後皮膚紅、癢、起疹或水泡。"
+  },
+  {
+    "id": "difficulty-falling-asleep",
+    "bodyPartId": "sleep",
+    "slug": "difficulty-falling-asleep",
+    "name": "入睡困難",
+    "description": "躺下很久睡不著，腦中停不下來。"
+  },
+  {
+    "id": "early-morning-awakening",
+    "bodyPartId": "sleep",
+    "slug": "early-morning-awakening",
+    "name": "清晨早醒",
+    "description": "比預期早醒且難以再入睡。"
+  },
+  {
+    "id": "frequent-night-waking",
+    "bodyPartId": "sleep",
+    "slug": "frequent-night-waking",
+    "name": "半夜常醒",
+    "description": "夜間反覆醒來，睡眠破碎。"
+  },
+  {
+    "id": "restless-legs",
+    "bodyPartId": "sleep",
+    "slug": "restless-legs",
+    "name": "不寧腿",
+    "description": "睡前腿部不舒服、想動腿，影響睡眠。"
+  },
+  {
+    "id": "nightmares",
+    "bodyPartId": "sleep",
+    "slug": "nightmares",
+    "name": "惡夢頻繁",
+    "description": "反覆惡夢、驚醒或影響睡眠品質。"
+  },
+  {
+    "id": "sleepwalking",
+    "bodyPartId": "sleep",
+    "slug": "sleepwalking",
+    "name": "夢遊",
+    "description": "睡眠中起身走動，醒後可能不記得。"
+  },
+  {
+    "id": "shift-work-sleep",
+    "bodyPartId": "sleep",
+    "slug": "shift-work-sleep",
+    "name": "輪班睡眠困擾",
+    "description": "輪班後失眠、嗜睡或作息混亂。"
+  },
+  {
+    "id": "teeth-grinding-sleep",
+    "bodyPartId": "sleep",
+    "slug": "teeth-grinding-sleep",
+    "name": "睡覺磨牙",
+    "description": "睡眠中磨牙、醒來下巴酸或牙齒敏感。"
+  },
+  {
+    "id": "testicular-pain",
+    "bodyPartId": "male",
+    "slug": "testicular-pain",
+    "name": "睪丸疼痛",
+    "description": "陰囊或睪丸疼痛、腫脹或壓痛。"
+  },
+  {
+    "id": "erectile-dysfunction",
+    "bodyPartId": "male",
+    "slug": "erectile-dysfunction",
+    "name": "勃起功能障礙",
+    "description": "勃起困難、維持困難或性功能下降。"
+  },
+  {
+    "id": "penile-discharge",
+    "bodyPartId": "male",
+    "slug": "penile-discharge",
+    "name": "尿道分泌物",
+    "description": "尿道口有分泌物、異味或排尿疼痛。"
+  },
+  {
+    "id": "prostate-symptoms",
+    "bodyPartId": "male",
+    "slug": "prostate-symptoms",
+    "name": "攝護腺症狀",
+    "description": "尿流變弱、頻尿、夜尿或尿不乾淨。"
+  },
+  {
+    "id": "scrotal-swelling",
+    "bodyPartId": "male",
+    "slug": "scrotal-swelling",
+    "name": "陰囊腫脹",
+    "description": "陰囊變大、腫脹或沉重感。"
+  },
+  {
+    "id": "male-infertility-concern",
+    "bodyPartId": "male",
+    "slug": "male-infertility-concern",
+    "name": "男性不孕疑慮",
+    "description": "備孕一段時間未成功，擔心精液或生育能力。"
+  },
+  {
+    "id": "premature-ejaculation",
+    "bodyPartId": "male",
+    "slug": "premature-ejaculation",
+    "name": "早洩",
+    "description": "射精控制困難，影響性生活滿意度。"
+  },
+  {
+    "id": "blood-in-semen",
+    "bodyPartId": "male",
+    "slug": "blood-in-semen",
+    "name": "精液帶血",
+    "description": "精液呈粉紅、紅色或褐色。"
+  },
+  {
+    "id": "loss-of-appetite-nutrition",
+    "bodyPartId": "nutrition",
+    "slug": "loss-of-appetite-nutrition",
+    "name": "胃口變差",
+    "description": "食慾下降、吃不下或看到食物沒興趣。"
+  },
+  {
+    "id": "unintentional-weight-gain",
+    "bodyPartId": "nutrition",
+    "slug": "unintentional-weight-gain",
+    "name": "不明原因變胖",
+    "description": "沒有明顯改變飲食卻體重上升。"
+  },
+  {
+    "id": "unintentional-weight-loss-nutrition",
+    "bodyPartId": "nutrition",
+    "slug": "unintentional-weight-loss-nutrition",
+    "name": "不明原因變瘦",
+    "description": "沒有刻意減重卻體重下降。"
+  },
+  {
+    "id": "dehydration-suspected",
+    "bodyPartId": "nutrition",
+    "slug": "dehydration-suspected",
+    "name": "疑似脫水",
+    "description": "口乾、尿少、頭暈、皮膚乾或虛弱。"
+  },
+  {
+    "id": "vitamin-deficiency-suspected",
+    "bodyPartId": "nutrition",
+    "slug": "vitamin-deficiency-suspected",
+    "name": "疑似營養缺乏",
+    "description": "疲倦、口角炎、掉髮、麻木或皮膚變化。"
+  },
+  {
+    "id": "binge-eating",
+    "bodyPartId": "nutrition",
+    "slug": "binge-eating",
+    "name": "暴食",
+    "description": "短時間大量進食且難以控制，之後感到懊悔。"
+  },
+  {
+    "id": "eating-too-little",
+    "bodyPartId": "nutrition",
+    "slug": "eating-too-little",
+    "name": "吃太少",
+    "description": "長期吃很少、害怕變胖或體重過低。"
+  },
+  {
+    "id": "salt-craving",
+    "bodyPartId": "nutrition",
+    "slug": "salt-craving",
+    "name": "特別想吃鹹",
+    "description": "突然或長期很想吃鹹食，可能合併疲倦或頭暈。"
   }
 ]

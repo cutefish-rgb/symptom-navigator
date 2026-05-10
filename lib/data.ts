@@ -82,6 +82,10 @@ export async function getSymptomResult(symptomId: string) {
   return remote ?? symptomResults.find((result) => result.symptomId === symptomId) ?? null;
 }
 
+export async function getSymptomResults() {
+  return symptomResults;
+}
+
 export async function searchSymptoms(query: string) {
   const keyword = normalizeText(query);
 

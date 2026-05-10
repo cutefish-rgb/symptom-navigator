@@ -598,6 +598,67 @@ main {
   margin: 22px 0;
 }
 
+.google-search-panel {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  margin-top: 28px;
+  padding: 22px;
+}
+
+.google-search-panel h2 {
+  font-size: 24px;
+  line-height: 1.3;
+  margin: 0 0 8px;
+}
+
+.google-search-panel p {
+  color: var(--muted);
+  margin: 0;
+}
+
+.suggested-departments {
+  background: var(--surface-muted);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  margin-top: 18px;
+  padding: 14px;
+}
+
+.suggested-departments strong {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.suggested-departments div,
+.google-link-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.suggested-departments span,
+.google-link-list a {
+  border-radius: 8px;
+  font-weight: 800;
+  padding: 9px 12px;
+}
+
+.suggested-departments span {
+  background: white;
+  border: 1px solid var(--line);
+  color: var(--primary-dark);
+}
+
+.google-link-list {
+  margin-top: 18px;
+}
+
+.google-link-list a {
+  background: var(--primary);
+  color: white;
+}
+
 @media (max-width: 860px) {
   .site-header {
     grid-template-columns: 1fr auto;
